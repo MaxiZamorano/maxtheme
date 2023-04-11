@@ -35,6 +35,7 @@
 
 .top-bar-logo > img {
     opacity: 0 !important;
+    z-index: -10;
 }
 
 .button-secondary {
