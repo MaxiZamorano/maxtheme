@@ -6,5 +6,5 @@ Tema para el panel de control HestiaCP estilo Bootstrap 5, incluye personalizaci
 ## Instalación
 Para instalar el tema solo debes ejecutar el siguiente comando en la terminal:
 ```bash
-curl -sSL https://download.maxizamorano.com/theme/install.sh -o install.sh && chmod +x install.sh && sh install.sh
+curl -sSL https://raw.githubusercontent.com/maxizamorano/max-theme-light/main/install.sh -o install.sh && chmod +x install.sh && sh install.sh
 ```
