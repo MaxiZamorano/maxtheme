@@ -24,7 +24,7 @@ show_menu() {
 
 instalar(){
 
-        url="https://raw.githubusercontent.com/maxizamorano/max-theme-light/main/max-theme-light.css"
+        url="https://raw.githubusercontent.com/maxizamorano/maxtheme/main/themes/max-theme-light.css"
         dir_archivo="/usr/local/hestia/web/css/themes/custom/max-theme-light.css"
 
         # Verifica si la carpeta "/root/custom" existe, si no la crea
