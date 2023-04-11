@@ -25,15 +25,15 @@ show_menu() {
 instalar(){
 
         url="https://raw.githubusercontent.com/maxizamorano/max-theme-light/main/max-theme-light.css"
-        output_file="/usr/local/hestia/web/css/themes/custom/"
+        dir_archivo="/usr/local/hestia/web/css/themes/custom/max-theme-light.css"
 
         # Verifica si la carpeta "/root/custom" existe, si no la crea
-        if [ ! -d "/root/custom" ]; then
-                mkdir -p "/usr/local/hestia/web/css/themes/custom/"
+        if [ ! -d "/usr/local/hestia/web/css/themes/custom" ]; then
+                mkdir -p "/usr/local/hestia/web/css/themes/custom"
         fi
 
         # Descarga el archivo y sobrescribe si ya existe
-        curl -s -o "$output_file" -k "$url"
+        curl -o "$dir_archivo" -k "$url"
 
         archivo="/usr/local/hestia/web/css/themes/custom/max-theme-light.css"
         linea="5"
