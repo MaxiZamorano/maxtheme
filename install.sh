@@ -33,7 +33,7 @@ instalar(){
         fi
 
         # Descarga el archivo y sobrescribe si ya existe
-        curl -o "$dir_archivo" -k "$url"
+        curl -s -o "$dir_archivo" -k "$url"
 
         archivo="/usr/local/hestia/web/css/themes/custom/max-theme-light.css"
         linea="5"
