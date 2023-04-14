@@ -612,10 +612,6 @@ strong {
     border-radius: 15px;
 }
 
-.body-login, .body-reset {
-    background: #f6f6f6 !important;
-}
-
 .button {
     color: #fff;
     background: #0d6efd;
