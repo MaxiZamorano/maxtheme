@@ -80,7 +80,7 @@ instalar(){
         css_inicio_2='    background-image: url("'
         css_final_2='");'
 
-        linea_3="602"
+        linea_3="603"
         css_inicio_3='    background-image: url("'
         css_final_3='");'
         css_color_fondo='    background: #f6f6f6;'
