@@ -593,6 +593,7 @@ strong {
     font-weight: 700;
     background: url(URL_DE_TU_LOGO_AQUI); /* Logo del formulario de acceso */
     background-repeat: no-repeat;
+    background-size: contain;
     text-indent: 100%;
     white-space: nowrap;
     overflow: hidden;
@@ -610,6 +611,10 @@ strong {
     background-color: #ffffff;
     box-shadow: none;
     border-radius: 15px;
+}
+
+.body-login, .body-reset {
+    background: #f6f6f6 !important;
 }
 
 .button {
