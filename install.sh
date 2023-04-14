@@ -25,7 +25,7 @@ show_menu() {
 
   echo ""
   echo "                                          Max Theme para HestiaCP"
-  echo "                                                   1.0.0"
+  echo "                                                   v1.0"
   echo "                                           www.maxizamorano.com"
   echo "                                      https://github.com/MaxiZamorano"
   echo ""
@@ -80,7 +80,7 @@ instalar(){
         css_inicio_2='    background-image: url("'
         css_final_2='");'
 
-        linea_3="602"
+        linea_3="603"
         css_inicio_3='    background-image: url("'
         css_final_3='");'
         css_color_fondo='    background: #f6f6f6;'
