@@ -382,11 +382,20 @@ ul.main-menu-stats > li > span {
     width: 1024px;
 }
 
+.l-unit:hover, .units .l-unit {
+    background-color: #fff;
+    border-left: none;
+    border-right: none;
+    box-shadow: none;
+    text-shadow: none;
+    color: #0d6efd;
+}
+
 .l-unit:hover, .units .l-unit:hover {
     background-color: #e2eeff;
     border-left: none;
     border-right: none;
     box-shadow: none;
     text-shadow: none;
-    color: #0d6efd;
+    color: #212529;
 }
