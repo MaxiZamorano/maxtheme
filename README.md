@@ -41,3 +41,14 @@ A continuación, puedes ver algunas capturas de pantalla del tema que tendrás p
 #### - Dashboard con tu logo
 <img align="center" src="https://www.maxizamorano.com/img/gh/logo-dashboard.png"/>
 
+## Problemas y/o Sugerencias
+
+Si tienes algun problema con el script, encuentran algun error o tienes alguna sugerencia, por favor contáctate al correo contacto@maxizamorano.com para recibir ayuda y/o establecer una conversación.
+
+## Derechos de autor
+
+Tienes permitido modificar el script a tu gusto o los archivos de estilos del tema, si realizas alguna mejora importante puedes compartirla y de esta forma apoyar a la comunidad que usa HestiaCP.
+
+## Licencia
+
+Max Theme está bajo la licencia [GPL v3](https://github.com/MaxiZamorano/maxtheme/blob/main/LICENSE).
