@@ -359,6 +359,7 @@ ul.main-menu-stats > li > span {
     border-bottom: none;
     border-top: none;
     margin-top: 10px;
+    height: 55px;
 }
 
 .units {
@@ -398,4 +399,18 @@ ul.main-menu-stats > li > span {
     box-shadow: none !important;
     text-shadow: none !important;
     color: #0d6efd !important;
+    border-radius: 8px !important;
+}
+
+.l-unit__stat-col--left a:hover {
+    color: #0d6efd !important;
+}
+
+.l-unit__stat-col--left a, .l-unit__stat-col--left a:visited {
+    color: #0d6efd !important;
+}
+
+.icon-dim {
+    color: #0d6efd !important;
+    text-shadow: none !important;
 }
