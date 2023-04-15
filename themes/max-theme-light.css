@@ -38,7 +38,7 @@
     z-index: -10;
 }
 
-.button-secondary {
+.button.button-secondary {
     color: #fff;
     background: #0d6efd;
     border: 1px solid #0d6efd;
@@ -50,7 +50,7 @@
     text-shadow: none;
 }
 
-.button-secondary:hover {
+.button.button-secondary:hover {
     background: #0b5ed7;
     border: 1px solid #0b5ed7;
     color: #fff;
@@ -58,7 +58,7 @@
     box-shadow: none;
 }
 
-.button-secondary:active {
+.button.button-secondary:active {
     background: #0b5ed7;
     border: 1px solid #0b5ed7;
     color: #fff;
@@ -67,7 +67,7 @@
 
 }
 
-.button-secondary:focus {
+.button.button-secondary:focus {
     background: #0b5ed7;
     border: 1px solid #0b5ed7;
     color: #fff;
@@ -76,11 +76,11 @@
 
 }
 
-.button-secondary > .icon-green{
+.button.button-secondary > .icon-green{
     color: #fff;
 }
 
-.button-secondary > .icon-blue{
+.button.button-secondary > .icon-blue{
     color: #fff;
 }
 
