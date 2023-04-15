@@ -308,6 +308,14 @@
     text-shadow: none;
 }
 
+.top-bar-menu-link.active {
+    background: #fff;
+    border-left: 1px solid hsla(0,0%,100%,.98);
+    border-right: 1px solid hsla(0,0%,100%,.98);
+    color: #0d6efd;
+    text-shadow: none;
+}
+
 ul.main-menu-stats > li {
     font-weight: 600;
 }
@@ -318,6 +326,16 @@ ul.main-menu-stats > li > span {
     background: #e2eeff;
     padding: 2px 7px;
     border-radius: 4px;
+}
+
+.main-menu-item-label {
+    color: #212529;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.main-menu-item-label .fas {
+    color: #212529;
 }
 
 .badge {
@@ -345,4 +363,30 @@ ul.main-menu-stats > li > span {
 
 .units {
     padding-top: 15px;
+}
+
+.table-header {
+    background: #0d6efd;
+    border-bottom: none;
+    border-left: none;
+    border-radius: 8px;
+    border-right: none;
+    box-shadow: none;
+    color: #fff;
+    font-size: .8rem;
+    line-height: 1rem;
+    min-height: 28px;
+    overflow: hidden;
+    padding: 4px 0 4px 15px;
+    text-shadow: none;
+    width: 1024px;
+}
+
+.l-unit:hover, .units .l-unit:hover {
+    background-color: #e2eeff;
+    border-left: none;
+    border-right: none;
+    box-shadow: none;
+    text-shadow: none;
+    color: #0d6efd;
 }
