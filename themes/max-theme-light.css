@@ -414,3 +414,7 @@ ul.main-menu-stats > li > span {
     color: #0d6efd !important;
     text-shadow: none !important;
 }
+
+.icon-dim:hover {
+    color: #00409e !important;
+}
