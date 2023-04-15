@@ -1,3 +1,7 @@
+body{
+    color: #212529 !important;
+}
+
 .top-bar-logo {
     align-items: center;
     display: flex;
