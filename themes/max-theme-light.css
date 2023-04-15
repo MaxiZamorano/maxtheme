@@ -143,6 +143,10 @@
     box-shadow: none !important;
 }
 
+.form-check label, .form-label {
+    color: #212529 !important;
+}
+
 .button-secondary {
     color: #fff;
     background: #0d6efd;
@@ -476,4 +480,30 @@ ul.main-menu-stats > li > span {
 
 .toolbar-sorting-toggle:active, .toolbar-sorting-toggle:active b {
     color: #0d6efd !important;
+}
+
+.card {
+    background-color: #f5f5f5;
+    border: 1px solid #d3d3d3;
+    border-radius: 4px;
+    border-radius: 8px;
+    box-shadow: none;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.card-content {
+    color: #212529;
+}
+
+.form-title {
+    color: #212529;
+}
+
+.form-link {
+    color: #0d6efd !important;
+}
+
+.form-link:hover {
+    background-color: #0d6efd !important;
 }
