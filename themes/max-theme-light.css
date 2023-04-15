@@ -382,13 +382,18 @@ ul.main-menu-stats > li > span {
     width: 1024px;
 }
 
-.l-unit:hover, .units .l-unit {
+.l-unit, .units .l-unit {
     background-color: #fff;
     border-left: none;
     border-right: none;
     box-shadow: none;
     text-shadow: none;
     color: #0d6efd;
+}
+
+.l-unit, .units .l-unit {
+    border-left: none;
+    border-right: none;
 }
 
 .l-unit:hover, .units .l-unit:hover {
