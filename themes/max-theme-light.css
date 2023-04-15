@@ -189,6 +189,10 @@
     color: #fff;
 }
 
+.button-secondary > .icon-purple {
+    color: #fff;
+}
+
 .form-control {
     background-color: #fff;
     border: 1px solid #ced4da;
@@ -429,4 +433,30 @@ ul.main-menu-stats > li > span {
     border-radius: 5px;
     font-weight: 600;
     text-shadow: none;
+}
+
+.button:hover {
+    background: #069b55;
+    border: 1px solid #069b55;
+    color: #fff;
+    text-shadow: none;
+    box-shadow: none;
+}
+
+.button:active {
+    background: #069b55;
+    border: 1px solid #069b55;
+    color: #fff;
+    text-shadow: none;
+    box-shadow: 0 0 0 0.25rem rgba(13,110,253,.5);
+
+}
+
+.button:focus {
+    background: #069b55;
+    border: 1px solid #0b5ed7;
+    color: #fff;
+    text-shadow: none;
+    box-shadow: 0 0 0 0.25rem rgba(6,155,85,.5)
+
 }
