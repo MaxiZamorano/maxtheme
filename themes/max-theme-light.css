@@ -122,25 +122,25 @@
 }
 
 .form-select {
-    padding: 8px 12px;
-    line-height: 1.5;
-    color: #212529;
-    background-color: #fff;
-    border: 1px solid #ced4da;
-    border-radius: .25rem;
-    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-    box-shadow: none;
+    padding: 8px 12px !important;
+    line-height: 1.5 !important;
+    color: #212529 !important;
+    background-color: #fff !important;
+    border: 1px solid #ced4da !important;
+    border-radius: .25rem !important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out !important;
+    box-shadow: none !important;
 }
 
 .form-select:hover {
-    padding: 8px 12px;
-    line-height: 1.5;
-    color: #212529;
-    background-color: #fff;
-    border: 1px solid #ced4da;
-    border-radius: .25rem;
-    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-    box-shadow: none;
+    padding: 8px 12px !important;
+    line-height: 1.5 !important;
+    color: #212529 !important;
+    background-color: #fff !important;
+    border: 1px solid #ced4da !important;
+    border-radius: .25rem !important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out !important;
+    box-shadow: none !important;
 }
 
 .button-secondary {
@@ -468,4 +468,12 @@ ul.main-menu-stats > li > span {
     width: max-content;
     padding: 2px 10px;
     border-radius: 5px;
+}
+
+.toolbar-sorting-toggle {
+    color: #212529 !important;
+}
+
+.toolbar-sorting-toggle:active, .toolbar-sorting-toggle:active b {
+    color: #0d6efd !important;
 }
