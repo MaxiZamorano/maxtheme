@@ -391,12 +391,7 @@ ul.main-menu-stats > li > span {
     color: #212529;
 }
 
-.l-unit, .units .l-unit {
-    border-left: none;
-    border-right: none;
-}
-
-.l-unit:hover, units .l-unit:hover {
+.l-unit:hover, .units .l-unit:hover {
     background-color: #e2eeff;
     border-left: none;
     border-right: none;
