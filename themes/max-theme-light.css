@@ -418,3 +418,15 @@ ul.main-menu-stats > li > span {
 .icon-dim:hover {
     color: #00409e !important;
 }
+
+.button {
+    color: #fff;
+    background: #00bb64;
+    border: 1px solid #00bb64;
+    box-shadow: none;
+    padding: 6px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    font-weight: 600;
+    text-shadow: none;
+}
