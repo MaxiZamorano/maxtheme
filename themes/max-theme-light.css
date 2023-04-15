@@ -392,10 +392,10 @@ ul.main-menu-stats > li > span {
 }
 
 .l-unit:hover, .units .l-unit:hover {
-    background-color: #e2eeff;
-    border-left: none;
-    border-right: none;
-    box-shadow: none;
-    text-shadow: none;
-    color: #0d6efd;
+    background-color: #e2eeff !important;
+    border-left: none !important;
+    border-right: none !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    color: #0d6efd !important;
 }
