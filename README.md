@@ -18,7 +18,7 @@ He creado este script de fácil instalación para que puedas tener un nuevo tema
 ## Características
 
 - Tema con Estilo Bootstrap 5
-- Añade tu logo en el Dashboard de HestiaCP (<a href="https://#">Ver ejemplo</a>)
+- Añade tu logo en el Dashboard de HestiaCP (<a href="#--login-o-inicio-de-sesi%C3%B3n-con-tu-logo">Ver ejemplo</a>)
 - Añade tu logo en la pantalla de Login o Inicio de sesión (<a href="https://#">Ver ejemplo</a>)
 - Añade una imagen fondo en la pantalla de Login o Inicio de sesión (<a href="https://#">Ver ejemplo</a>)
 
@@ -32,6 +32,12 @@ curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/main/install.s
 
 A continuación, puedes ver algunas capturas de pantalla del tema que tendrás para tu panel de control HestiaCP.
 
-#### - Login o Inicio de sesión
-<img align="center" src="https://www.maxizamorano.com/img/gh/max-theme.png"/>
+#### - Login o Inicio de sesión con tu logo
+<img align="center" src="https://www.maxizamorano.com/img/gh/login-con-logo.png"/>
+
+#### - Login o Inicio de sesión con tu logo y tu fondo
+<img align="center" src="https://www.maxizamorano.com/img/gh/login-con-logo-y-fondo.png"/>
+
+#### - Dashboard con tu logo
+<img align="center" src="https://www.maxizamorano.com/img/gh/logo-dashboard.png"/>
 
