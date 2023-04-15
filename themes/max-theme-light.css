@@ -189,7 +189,7 @@
     color: #fff;
 }
 
-.button-secondary > .icon-purple {
+.button > .icon-purple {
     color: #fff;
 }
 
@@ -448,13 +448,13 @@ ul.main-menu-stats > li > span {
     border: 1px solid #069b55;
     color: #fff;
     text-shadow: none;
-    box-shadow: 0 0 0 0.25rem rgba(13,110,253,.5);
+    box-shadow: 0 0 0 0.25rem rgba(6,155,85,.5)
 
 }
 
 .button:focus {
     background: #069b55;
-    border: 1px solid #0b5ed7;
+    border: 1px solid #069b55;
     color: #fff;
     text-shadow: none;
     box-shadow: 0 0 0 0.25rem rgba(6,155,85,.5)
