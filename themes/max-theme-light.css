@@ -388,7 +388,7 @@ ul.main-menu-stats > li > span {
     border-right: none;
     box-shadow: none;
     text-shadow: none;
-    color: #0d6efd;
+    color: #212529;
 }
 
 .l-unit, .units .l-unit {
@@ -402,5 +402,5 @@ ul.main-menu-stats > li > span {
     border-right: none;
     box-shadow: none;
     text-shadow: none;
-    color: #212529;
+    color: #0d6efd;
 }
