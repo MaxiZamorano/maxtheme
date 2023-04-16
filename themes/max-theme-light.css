@@ -206,6 +206,10 @@ body{
     color: #fff;
 }
 
+.button-secondary > .icon-red {
+    color: #fff;
+}
+
 .button > .icon-purple {
     color: #fff;
 }
