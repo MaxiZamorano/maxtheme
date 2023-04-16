@@ -628,3 +628,18 @@ p.hint.u-mb20 b {
 .icon-red, .icon-red:hover {
     color: #fd4c4c !important;
 }
+
+.panel {
+    border: 1px solid #d9d9d9 !important;
+    border-radius: 8px !important;
+    box-shadow: none !important;
+    padding: 20px !important;
+}
+
+.panel a {
+    color: #0d6efd !important;
+}
+
+.panel a:hover {
+    color: #00409e !important;
+}
