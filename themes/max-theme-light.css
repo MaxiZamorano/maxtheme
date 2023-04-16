@@ -710,3 +710,11 @@ p.hint.u-mb20 b {
 .shortcuts-close:active {
     color: #0d6efd !important;
 }
+
+.toolbar-link.selected, .toolbar-link:hover {
+    color: #0d6efd !important;
+}
+
+.toolbar-link:active {
+    color: #00409e !important;
+}
