@@ -103,26 +103,26 @@ body{
 }
 
 .form-control:hover {
-    background-color: #fff;
-    border: 1px solid #ced4da;
+    background-color: #fff !important;
+    border: 1px solid #ced4da !important;
     border-radius: 5px !important;
-    box-shadow: none;
-    color: #212529;
-    display: block;
-    font-size: .8rem;
-    font-weight: 400;
-    line-height: 1.5;
-    padding: 8px 12px;
-    transition: background-color .5s;
+    box-shadow: none !important;
+    color: #212529 !important;
+    display: block !important;
+    font-size: .8rem !important;
+    font-weight: 400 !important;
+    line-height: 1.5 !important;
+    padding: 8px 12px !important;
+    transition: background-color .5s !important;
 }
 
 .form-control:focus {
-    color: #212529;
-    background-color: #fff;
-    border-color: #86b7fe;
-    outline: 0;
-    box-shadow: 0 0 0 .25rem rgba(13,110,253,.25);
-    transition: .2s;
+    color: #212529 !important;
+    background-color: #fff !important;
+    border-color: #86b7fe !important;
+    outline: 0 !important;
+    box-shadow: 0 0 0 .25rem rgba(13,110,253,.25) !important;
+    transition: .2s !important;
 }
 
 .form-select {
@@ -194,6 +194,14 @@ body{
 }
 
 .button-secondary > .icon-blue{
+    color: #fff;
+}
+
+.button-secondary > .icon-orange {
+    color: #fff;
+}
+
+.button-secondary > .icon-maroon {
     color: #fff;
 }
 
