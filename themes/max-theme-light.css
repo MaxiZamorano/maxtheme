@@ -609,3 +609,10 @@ p.hint.u-mb20 b {
 .inline-alert-success a:hover {
     color: #00409e !important;
 }
+
+.inline-alert-danger {
+    color: #d92727 !important;
+    padding: 10px !important;
+    background: #ffdede !important;
+    border-radius: 6px !important;
+}
