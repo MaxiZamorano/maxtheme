@@ -681,3 +681,28 @@ p.hint.u-mb20 b {
 .toolbar-sorting-menu span.active:hover {
     color: #fff !important;
 }
+
+.shortcuts {
+    background: #000916 !important;
+    border: 1px solid #000916 !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 30px rgba(0,0,0,.5) !important;
+    color: #fff !important;
+}
+
+.shortcuts-title {
+    color: #0d6efd !important;
+}
+
+.shortcuts-close {
+    padding: 0px 10px !important;
+    font-size: 20px !important;
+}
+
+.shortcuts-close:hover {
+    color: #0d6efd !important;
+}
+
+.shortcuts-close:active {
+    color: #0d6efd !important;
+}
