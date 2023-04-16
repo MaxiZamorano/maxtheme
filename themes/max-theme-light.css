@@ -566,6 +566,14 @@ ul.main-menu-stats > li > span {
     background-color: #ff6868 !important;
 }
 
+.alert-info {
+    background-color: #0d6efd !important;
+}
+
+.alert-info .fas {
+    color: #0d6efd;
+}
+
 .modal {
     background-color: #fff !important;
     border: none !important;
@@ -615,4 +623,8 @@ p.hint.u-mb20 b {
     padding: 10px !important;
     background: #ffdede !important;
     border-radius: 6px !important;
+}
+
+.icon-red, .icon-red:hover {
+    color: #fd4c4c !important;
 }
