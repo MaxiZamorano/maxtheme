@@ -269,8 +269,13 @@ body{
     transition: .2s !important;
 }
 
+.form-control.list-editor {
+    border: none !important;
+}
+
 .form-control.list-editor:hover {
     padding: 7px 12px !important;
+    border: none !important;
 }
 
 .main-menu-item-link.active, .main-menu-item-link:hover {
