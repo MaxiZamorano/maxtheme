@@ -594,3 +594,18 @@ ul.main-menu-stats > li > span {
 p.hint.u-mb20 b {
     color: #0d6efd !important;
 }
+
+.inline-alert-success {
+    color: #1f8721 !important;
+    background: #d2ffe2 !important;
+    padding: 10px !important;
+    border-radius: 6px !important;
+}
+
+.inline-alert-success a {
+    color: #0d6efd !important;
+}
+
+.inline-alert-success a:hover {
+    color: #00409e !important;
+}
