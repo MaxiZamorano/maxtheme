@@ -625,10 +625,6 @@ p.hint.u-mb20 b {
     border-radius: 6px !important;
 }
 
-.icon-red, .icon-red:hover {
-    color: #fd4c4c !important;
-}
-
 .panel {
     border: 1px solid #d9d9d9 !important;
     border-radius: 8px !important;
