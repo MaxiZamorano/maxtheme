@@ -226,7 +226,7 @@ body{
 .form-control:hover {
     background-color: #fff !important;
     border: 1px solid #ced4da !important;
-    border-radius: 5px !important !important;
+    border-radius: 5px !important;
     box-shadow: none !important;
     color: #212529 !important;
     display: block !important;
@@ -564,4 +564,25 @@ ul.main-menu-stats > li > span {
 
 .alert-danger {
     background-color: #ff6868 !important;
+}
+
+.modal {
+    background-color: #fff !important;
+    border: none !important;
+    border-radius: 8px !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,.25), 0 8px 40px 0 rgba(0,0,0,.35) !important;
+}
+
+.modal-title {
+    color: #0d6efd !important;
+    text-transform: uppercase !important;
+    font-weight: 600 !important;
+}
+
+.modal-message {
+    color: #212529 !important;
+}
+
+.modal-options {
+    box-shadow: 0 0 2px rgb(0 0 0 / 25%) !important;
 }
