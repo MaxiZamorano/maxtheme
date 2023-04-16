@@ -677,3 +677,7 @@ p.hint.u-mb20 b {
 .toolbar-sorting-menu span.active {
     color: #0d6efd !important;
 }
+
+.toolbar-sorting-menu span.active:hover {
+    color: #fff !important;
+}
