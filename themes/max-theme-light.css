@@ -52,6 +52,7 @@ body{
     border-radius: 5px;
     font-weight: 600;
     text-shadow: none;
+    text-transform: capitalize !important;
 }
 
 .button.button-secondary:hover {
@@ -454,6 +455,7 @@ ul.main-menu-stats > li > span {
     border-radius: 5px;
     font-weight: 600;
     text-shadow: none;
+    text-transform: capitalize !important;
 }
 
 .button:hover {
