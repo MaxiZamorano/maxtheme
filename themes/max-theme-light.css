@@ -284,7 +284,7 @@ body{
     line-height: 1.8;
     padding-bottom: 10px;
     padding-top: 10px;
-    text-transform: lowercase;
+    text-transform: capitalize;
     font-weight: 400;
 }
 
