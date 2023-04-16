@@ -512,3 +512,34 @@ ul.main-menu-stats > li > span {
     background-color: #0d6efd !important;
     color: #fff !important;
 }
+
+.server-summary-icon {
+    color: #0d6efd !important;
+}
+
+.top-bar-notification-item.unseen .top-bar-notification-title {
+    color: #0d6efc !important;
+}
+
+.top-bar-notification-item {
+    color: #212529 !important;
+}
+
+.top-bar-notification-item a {
+    color: #0d6efd !important;
+}
+
+.top-bar-notification-item a:hover {
+    color: #003e9a !important;
+}
+
+.top-bar-notification-delete .fas {
+    color: #0d6efd !important;
+    font-size: 20px !important;
+}
+
+.top-bar-notifications-list {
+    border-radius: 10px !important;
+    margin-top: 10px !important;
+    border: none !important
+}
