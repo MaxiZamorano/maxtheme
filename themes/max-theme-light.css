@@ -644,3 +644,17 @@ p.hint.u-mb20 b {
 .panel a:hover {
     color: #00409e !important;
 }
+
+.tabs {
+    border: 1px solid #cfcfcf !important;
+    border-radius: 8px !important;
+    box-shadow: none !important;
+}
+
+.tabs-item:hover, .tabs-item[aria-selected=true] {
+    color: #0d6efd !important;
+}
+
+.tabs-item:active {
+    color: #00409e !important;
+}
