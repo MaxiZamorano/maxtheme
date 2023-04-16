@@ -673,3 +673,7 @@ p.hint.u-mb20 b {
     box-shadow: 0 0 1px #fff, 0 0 6px hsla(0,0%,100%,.6) !important;
     text-shadow: none !important;
 }
+
+.toolbar-sorting-menu span.active {
+    color: #0d6efd !important;
+}
