@@ -1,5 +1,5 @@
 <p align="center">
-	<img align="center" src="https://www.maxizamorano.com/img/gh/max-theme.png"/>
+	<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme.png"/>
 </p>
 
 <h2 align="center">Max Theme para HestiaCP</h2>
