@@ -8,7 +8,7 @@
 
 <p align="center">
 	<strong>Mi web:</strong> <a href="https://www.maxizamorano.com/">MaxiZamorano.Com</a> |
-  <strong>Sugerencias:</strong> <a href="mailto:contacto@maxizamorano.com"> contacto@maxizamorano.com</a> |
+  <strong>Sugerencias:</strong> <a href="mailto:contacto@maxizamorano.com"> contacto@maxizamorano.com</a>
 
 </p>
 
