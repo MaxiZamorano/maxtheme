@@ -143,6 +143,7 @@ instalar(){
             echo  "${gris}____________________________________________________________________________________________________${reset}"
             echo ""
             echo "${verde}                                       ¡TEMA INSTALADO CORRECTAMENTE! ${reset}"
+            echo "${cyan}                    NOTA: ${amarillo}debes cambiar manualmente el tema desde el panel de control. ${reset}"
             echo  "${gris}____________________________________________________________________________________________________${reset}"
             echo ""
 
@@ -154,6 +155,7 @@ instalar(){
             echo  "${gris}____________________________________________________________________________________________________${reset}"
             echo ""
             echo "${verde}                                       ¡TEMA INSTALADO CORRECTAMENTE! ${reset}"
+            echo "${cyan}                    NOTA: ${amarillo}debes cambiar manualmente el tema desde el panel de control. ${reset}"
             echo  "${gris}____________________________________________________________________________________________________${reset}"
             echo ""
 
