@@ -21,7 +21,7 @@ He creado este script de fácil instalación para que puedas tener un nuevo tema
 - Tema con Estilo Bootstrap 5
 - Añade tu logo en el Dashboard de HestiaCP (<a href="#--dashboard-con-tu-logo">Ver ejemplo</a>)
 - Añade tu logo en la pantalla de Login o Inicio de sesión (<a href="#--login-o-inicio-de-sesi%C3%B3n-con-tu-logo">Ver ejemplo</a>)
-- Añade una imagen fondo en la pantalla de Login o Inicio de sesión (<a href="#--login-o-inicio-de-sesi%C3%B3n-con-tu-logo-y-tu-fondo">Ver ejemplo</a>)
+- Añade una imagen de fondo en la pantalla de Login o Inicio de sesión (<a href="#--login-o-inicio-de-sesi%C3%B3n-con-tu-logo-y-tu-fondo">Ver ejemplo</a>)
 
 ## Instalación
 Para instalar el tema solo debes ejecutar el siguiente comando en la terminal:
