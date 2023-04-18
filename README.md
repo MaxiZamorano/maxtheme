@@ -62,7 +62,7 @@ A continuación, puedes ver algunas capturas de pantalla del tema que tendrás p
 
 ## Problemas y/o Sugerencias
 
-Si tienes algun problema con el script, encuentran algun error o tienes alguna sugerencia, por favor contáctate al correo contacto@maxizamorano.com para recibir ayuda y/o establecer una conversación.
+Si tienes algún problema con el script, encuentras algun error o tienes alguna sugerencia, por favor contáctate al correo contacto@maxizamorano.com para recibir ayuda y/o establecer una conversación.
 
 ## Derechos de autor
 
