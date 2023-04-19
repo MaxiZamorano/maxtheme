@@ -734,6 +734,5 @@ p.hint.u-mb20 b {
 }
 
 .collapse-header:active {
-    background: #000 !important;
     box-shadow: 0 0 0 0.25rem rgba(13,110,253,.5) !important;
 }
