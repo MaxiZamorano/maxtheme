@@ -718,3 +718,22 @@ p.hint.u-mb20 b {
 .toolbar-link:active {
     color: #00409e !important;
 }
+
+.collapse-header {
+    background: #fff !important;
+    border: 1px solid #ddd !important;
+    box-shadow: none !important;
+    color: #0d6efd !important;
+    text-shadow: none !important;
+    border-radius: 7px !important;
+}
+
+.collapse-header:hover {
+    color: #0d6efd;
+    background: #e2eeff;
+}
+
+.collapse-header:active {
+    background: #000 !important;
+    box-shadow: 0 0 0 0.25rem rgba(13,110,253,.5) !important;
+}
