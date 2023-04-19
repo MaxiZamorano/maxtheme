@@ -43,10 +43,10 @@ show_menu() {
 #función para instalar o reinstalar el tema
 instalar(){
 
-        url="https://raw.githubusercontent.com/maxizamorano/maxtheme/main/themes/max-theme-light.css"
+        url="https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/themes/max-theme-light.css"
         dir_archivo="/usr/local/hestia/web/css/themes/custom/max-theme-light.css"
 
-        url_2="https://raw.githubusercontent.com/maxizamorano/maxtheme/main/themes/max-theme-light-login.css"
+        url_2="https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/themes/max-theme-light-login.css"
         dir_archivo_2="/usr/local/hestia/web/css/themes/max-theme-light-login.css"
 
         # Verifica si la carpeta "/usr/local/hestia/web/css/themes/custom" existe, si no la crea
