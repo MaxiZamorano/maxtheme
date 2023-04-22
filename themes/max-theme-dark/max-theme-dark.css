@@ -90,12 +90,18 @@ body {
     color: #fff;
 }
 
+.form-control:disabled, .form-select:disabled {
+    background-color: #10151c !important;
+    color: #fff !important;
+    text-shadow: none !important;
+}
+
 .form-control {
-    background-color: #fff !important;
-    border: 1px solid #ced4da !important;
+    background-color: #121d2f !important;
+    border: 1px solid #121d2f !important;
     border-radius: 5px !important;
     box-shadow: none !important;
-    color: #212529 !important;
+    color: #fff !important;
     display: block !important;
     font-size: .8rem !important;
     font-weight: 400 !important;
@@ -105,11 +111,11 @@ body {
 }
 
 .form-control:hover {
-    background-color: #fff !important;
-    border: 1px solid #ced4da !important;
+    background-color: #121d2f !important;
+    border: 1px solid #0d6efd8f !important;
     border-radius: 5px !important;
     box-shadow: none !important;
-    color: #212529 !important;
+    color: #fff !important;
     display: block !important;
     font-size: .8rem !important;
     font-weight: 400 !important;
@@ -119,9 +125,9 @@ body {
 }
 
 .form-control:focus {
-    color: #212529 !important;
-    background-color: #fff !important;
-    border-color: #86b7fe !important;
+    color: #fff !important;
+    background-color: #121d2f !important;
+    border-color: #121d2f !important;
     outline: 0 !important;
     box-shadow: 0 0 0 .25rem rgba(13,110,253,.25) !important;
     transition: .2s !important;
@@ -130,9 +136,9 @@ body {
 .form-select {
     padding: 8px 12px !important;
     line-height: 1.5 !important;
-    color: #212529 !important;
-    background-color: #fff !important;
-    border: 1px solid #ced4da !important;
+    color: #fff !important;
+    background-color: #121d2f !important;
+    border: 1px solid #121d2f !important;
     border-radius: .25rem !important;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out !important;
     box-shadow: none !important;
@@ -141,9 +147,9 @@ body {
 .form-select:hover {
     padding: 8px 12px !important;
     line-height: 1.5 !important;
-    color: #212529 !important;
-    background-color: #fff !important;
-    border: 1px solid #ced4da !important;
+    color: #fff !important;
+    background-color: #121d2f !important;
+    border: 1px solid #0d6efd8f !important;
     border-radius: .25rem !important;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out !important;
     box-shadow: none !important;
@@ -267,9 +273,9 @@ body {
 }
 
 .form-select:focus {
-    color: #212529 !important;
-    background-color: #fff !important;
-    border-color: #86b7fe !important;
+    color: #fff !important;
+    background-color: #121d2f !important;
+    border-color: #121d2f !important;
     outline: 0 !important;
     box-shadow: 0 0 0 .25rem rgba(13,110,253,.25) !important;
     transition: .2s !important;
@@ -594,10 +600,10 @@ ul.main-menu-stats > li > span {
 }
 
 .modal {
-    background-color: #fff !important;
+    background-color: #0d1117 !important;
     border: none !important;
     border-radius: 8px !important;
-    box-shadow: 0 1px 3px rgba(0,0,0,.25), 0 8px 40px 0 rgba(0,0,0,.35) !important;
+    box-shadow: none !important;
 }
 
 .modal-title {
@@ -607,7 +613,7 @@ ul.main-menu-stats > li > span {
 }
 
 .modal-message {
-    color: #212529 !important;
+    color: #fff !important;
 }
 
 .modal-options {
