@@ -110,7 +110,7 @@ body {
     transition: background-color .5s !important;
 }
 
-.form-control:focus {
+.form-control:active, .form-control:focus {
     color: #fff !important;
     background-color: #121d2f !important;
     border-color: #121d2f !important;
@@ -238,14 +238,11 @@ body {
 .form-select {
     padding: 8px 12px !important;
     line-height: 1.5 !important;
-    color: #212529;
-    background-color: #fff !important;
-    border: 1px solid #ced4da !important;
+    color: #fff !important;
+    background-color: #121d2f !important;
+    border: 1px solid #121d2f !important;
     border-radius: .25rem !important;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out !important;
-    -webkit-appearance: none !important;
-    -moz-appearance: none !important;
-    appearance: none !important;
     box-shadow: none !important;
 }
 
