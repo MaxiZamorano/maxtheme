@@ -654,11 +654,11 @@ strong {
   
   .form-control,
   .form-control:hover {
-    background-color: #fff;
-    border: 1px solid #ced4da;
+    background-color: #121d2f;
+    border: 1px solid #121d2f;
     border-radius: 5px !important;
     box-shadow: none;
-    color: #212529;
+    color: #fff;
     display: block;
     font-size: .8rem;
     font-weight: 400;
@@ -668,9 +668,9 @@ strong {
 }
 
 .form-control:focus {
-    color: #212529;
-    background-color: #fff;
-    border-color: #86b7fe;
+    color: #fff;
+    background-color: #121d2f;
+    border-color: #121d2f;
     outline: 0;
     box-shadow: 0 0 0 .25rem rgba(13,110,253,.25);
     transition: .2s;
@@ -697,7 +697,7 @@ strong {
 }
 
 .login-form-link:hover {
-    color: #424242;
+    color: #fff;
 }
 
 a.u-block.u-mb40 {
