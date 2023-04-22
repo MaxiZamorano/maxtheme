@@ -57,11 +57,11 @@ body {
 }
 
 .button.button-secondary:hover {
-    background: #0b5ed7;
-    border: 1px solid #0b5ed7;
-    color: #fff;
-    text-shadow: none;
-    box-shadow: none;
+    background: #0b5ed7 !important;
+    border: 1px solid #0b5ed7 !important;
+    color: #fff !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
 }
 
 .button.button-secondary:active {
