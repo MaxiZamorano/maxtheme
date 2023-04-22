@@ -47,12 +47,12 @@ body {
     color: #0d6efd !important;
     background: #121d2f !important;
     border: 1px solid #121d2f !important;
-    box-shadow: none;
-    padding: 6px 10px;
-    font-size: 14px;
-    border-radius: 5px;
-    font-weight: 600;
-    text-shadow: none;
+    box-shadow: none !important;
+    padding: 6px 10px !important;
+    font-size: 14px !important;
+    border-radius: 5px !important;
+    font-weight: 600 !important;
+    text-shadow: none !important;
     text-transform: capitalize !important;
 }
 
@@ -65,20 +65,20 @@ body {
 }
 
 .button.button-secondary:active {
-    background: #0b5ed7;
-    border: 1px solid #0b5ed7;
-    color: #fff;
-    text-shadow: none;
-    box-shadow: 0 0 0 0.25rem rgba(13,110,253,.5);
+    background: #0b5ed7 !important;
+    border: 1px solid #0b5ed7 !important;
+    color: #fff !important;
+    text-shadow: none !important;
+    box-shadow: 0 0 0 0.25rem rgba(13,110,253,.5) !important;
 
 }
 
 .button.button-secondary:focus {
-    background: #0b5ed7;
-    border: 1px solid #0b5ed7;
-    color: #fff;
-    text-shadow: none;
-    box-shadow: 0 0 0 0.25rem rgba(13,110,253,.5);
+    background: #0b5ed7 !important;
+    border: 1px solid #0b5ed7 !important;
+    color: #fff !important;
+    text-shadow: none !important;
+    box-shadow: 0 0 0 0.25rem rgba(13,110,253,.5) !important;
 
 }
 
