@@ -652,10 +652,9 @@ strong {
     box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.5);
   }
   
-  .form-control,
-  .form-control:hover {
-    background-color: #121d2f;
-    border: 1px solid #121d2f;
+  .form-control, .form-control:hover {
+    background-color: #121d2f !important;
+    border: 1px solid #0d6efd8f !important;
     border-radius: 5px !important;
     box-shadow: none;
     color: #fff;
@@ -668,11 +667,11 @@ strong {
 }
 
 .form-control:focus {
-    color: #fff;
-    background-color: #121d2f;
-    border-color: #121d2f;
+    color: #fff !important;
+    background-color: #121d2f !important;
+    border-color: #121d2f !important;
     outline: 0;
-    box-shadow: 0 0 0 .25rem rgba(13,110,253,.25);
+    box-shadow: 0 0 0 .25rem rgba(13,110,253,.25) !important;
     transition: .2s;
 }
 
