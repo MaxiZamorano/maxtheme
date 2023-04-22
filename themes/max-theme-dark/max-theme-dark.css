@@ -44,9 +44,9 @@ body {
 }
 
 .button.button-secondary {
-    color: #0d6efd;
-    background: #0d1117;
-    border: 1px solid #0d1117;
+    color: #0d6efd !important;
+    background: #121d2f !important;
+    border: 1px solid #121d2f !important;
     box-shadow: none;
     padding: 6px 10px;
     font-size: 14px;
@@ -83,10 +83,6 @@ body {
 }
 
 .button.button-secondary > .icon-green{
-    color: #0d6efd !important;
-}
-
-.button.button-secondary:hover > .icon-green:hover {
     color: #fff !important;
 }
 
@@ -154,7 +150,7 @@ body {
 }
 
 .form-check label, .form-label {
-    color: #212529 !important;
+    color: #fff !important;
 }
 
 .button-secondary {
@@ -393,9 +389,9 @@ ul.main-menu-stats > li > span {
 }
 
 .toolbar {
-    background-color: #121d2f !important;
-    border-bottom: none;
-    border-top: none;
+    background-color: #0d1117 !important;
+    border-bottom: 1px solid #0d6efd42 !important;
+    border-top: 1px solid #0d6efd42 !important;
     margin-top: 10px;
     height: 55px;
 }
@@ -532,7 +528,7 @@ ul.main-menu-stats > li > span {
 }
 
 .form-title {
-    color: #212529;
+    color: #fff !important;
 }
 
 .form-link {
