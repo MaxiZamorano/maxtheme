@@ -96,20 +96,6 @@ body {
     text-shadow: none !important;
 }
 
-.form-control {
-    background-color: #121d2f !important;
-    border: 1px solid #121d2f !important;
-    border-radius: 5px !important;
-    box-shadow: none !important;
-    color: #fff !important;
-    display: block !important;
-    font-size: .8rem !important;
-    font-weight: 400 !important;
-    line-height: 1.5 !important;
-    padding: 8px 12px !important;
-    transition: background-color .5s !important;
-}
-
 .form-control:hover {
     background-color: #121d2f !important;
     border: 1px solid #0d6efd8f !important;
