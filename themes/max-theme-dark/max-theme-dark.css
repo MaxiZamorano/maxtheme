@@ -488,7 +488,9 @@ ul.main-menu-stats > li > span {
 }
 
 .card-content {
-    color: #212529;
+    color: #fff !important;
+    border-top: 1px solid #e6e6e6 !important;
+    background: #121d2f !important;
 }
 
 .form-title {
@@ -694,8 +696,8 @@ p.hint.u-mb20 b {
 }
 
 .collapse-header {
-    background: #fff !important;
-    border: 1px solid #ddd !important;
+    background: #121d2f !important;
+    border: 1px solid #121d2f !important;
     box-shadow: none !important;
     color: #0d6efd !important;
     text-shadow: none !important;
@@ -704,7 +706,7 @@ p.hint.u-mb20 b {
 
 .collapse-header:hover {
     color: #0d6efd !important;
-    background: #e2eeff !important;
+    background: #1e2531 !important;
 }
 
 .collapse-header:active {
