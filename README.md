@@ -4,7 +4,7 @@
 
 <h2 align="center">Max Theme para HestiaCP</h2>
 
-<p align="center"><strong>Última versión:</strong> 1.1 | <a href="https://github.com/MaxiZamorano/maxtheme/releases/tag/Changelog">Ver Cambios</a> | <a href="#capturas">Capturas de Pantalla</a></p>
+<p align="center"><strong>Última versión:</strong> 1.2 | <a href="https://github.com/MaxiZamorano/maxtheme/releases/tag/Changelog">Ver Cambios</a> | <a href="#capturas">Capturas de Pantalla</a></p>
 
 <p align="center">
 	<strong>Mi web:</strong> <a href="https://www.maxizamorano.com/">MaxiZamorano.Com</a> |
