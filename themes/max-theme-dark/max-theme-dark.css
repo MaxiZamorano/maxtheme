@@ -628,9 +628,13 @@ p.hint.u-mb20 b {
 }
 
 .tabs {
-    border: 1px solid #cfcfcf !important;
+    border: 1px solid #0d6efd7a !important;
     border-radius: 8px !important;
     box-shadow: none !important;
+}
+
+.tabs-item {
+    color: #fff !important;
 }
 
 .tabs-item:hover, .tabs-item[aria-selected=true] {
@@ -745,4 +749,20 @@ nav.main-menu {
 
 .app-footer {
     border-top: none !important;
+}
+
+.body-stats .l-unit__name {
+    color: #fff !important;
+}
+
+.server-summary-title {
+    color: #fff !important;
+}
+
+.statistics-count {
+    border-bottom: none !important;
+    border-right: none !important;
+    text-align: center !important;
+    background: #121d2f !important;
+    border-radius: 5px !important;
 }
