@@ -608,7 +608,7 @@ strong {
 
 
 .login {
-    background-color: #ffffff;
+    background-color: #0d1117;
     box-shadow: none;
     border-radius: 15px;
 }
@@ -626,9 +626,9 @@ strong {
 }
 
 .button:hover {
-    color: #fff;
-    background: #0b5ed7;
-    border: 1px solid #0b5ed7;
+    color: #0d6efd;
+    background: #121d2f;
+    border: 1px solid #121d2f;
     box-shadow: none;
     padding: 8px 10px;
     font-size: 14px;
@@ -682,7 +682,7 @@ strong {
 
 
 .login .form-label {
-    color: #424242;
+    color: #fff;
 }
 
 .login-title {
