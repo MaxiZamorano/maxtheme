@@ -110,7 +110,16 @@ body {
     transition: background-color .5s !important;
 }
 
-.form-control:active, .form-control:focus {
+.form-control:active {
+    color: #fff !important;
+    background-color: #121d2f !important;
+    border-color: #121d2f !important;
+    outline: 0 !important;
+    box-shadow: 0 0 0 .25rem rgba(13,110,253,.25) !important;
+    transition: .2s !important;
+}
+
+.form-control:focus {
     color: #fff !important;
     background-color: #121d2f !important;
     border-color: #121d2f !important;
@@ -305,21 +314,21 @@ body {
 }
 
 .top-bar-menu-link:hover {
-    background: #00409e;
-    border-left: 1px solid rgba(0,0,0,.1);
-    border-right: 1px solid rgba(0,0,0,.1);
-    box-shadow: none;
-    color: #fff;
-    text-shadow: none;
+    background: #0d6efd !important;
+    border-left: 1px solid rgba(0,0,0,.1) !important;
+    border-right: 1px solid rgba(0,0,0,.1) !important;
+    box-shadow: none !important;
+    color: #fff !important;
+    text-shadow: none !important;
 }
 
 .top-bar-menu-link:active {
-    background: #fff;
-    border-left: 1px solid rgba(0,0,0,.15);
-    border-right: 1px solid rgba(0,0,0,.15);
-    box-shadow: none;
-    color: #0d6efd;
-    text-shadow: none;
+    background: #fff !important;
+    border-left: 1px solid rgba(0,0,0,.15) !important;
+    border-right: 1px solid rgba(0,0,0,.15) !important;
+    box-shadow: none !important;
+    color: #0d6efd !important;
+    text-shadow: none !important;
 }
 
 .top-bar-menu-link.active {
@@ -477,12 +486,12 @@ ul.main-menu-stats > li > span {
 }
 
 .container.app-footer-inner > p {
-    background: #0d6efd;
-    color: #e2eeff;
-    font-weight: 600;
-    width: max-content;
-    padding: 2px 10px;
-    border-radius: 5px;
+    background: #121d2f !important;
+    color: #0d6efd !important;
+    font-weight: 600 !important;
+    width: max-content !important;
+    padding: 2px 10px !important;
+    border-radius: 5px !important;
 }
 
 .toolbar-sorting-toggle {
@@ -731,4 +740,12 @@ nav.main-menu {
 
 .section-title {
     color: #fff !important;
+}
+
+.toolbar-input-submit {
+    background-color: #121d2f !important;
+    border: 1px solid #121d2f !important;
+    box-shadow: none !important;
+    color: #0d6efd !important;
+    text-shadow: none !important;
 }
