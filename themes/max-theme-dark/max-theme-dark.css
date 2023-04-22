@@ -514,6 +514,8 @@ ul.main-menu-stats > li > span {
 
 .top-bar-notification-item {
     color: #212529 !important;
+    background: #121d2f !important;
+    border: 1px solid #121d2f !important;
 }
 
 .top-bar-notification-item a {
