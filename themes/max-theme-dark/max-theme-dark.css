@@ -222,11 +222,11 @@ body {
 }
 
 .form-control {
-    background-color: #fff;
-    border: 1px solid #ced4da;
+    background-color: #121d2f !important;
+    border: 1px solid #121d2f !important;
     border-radius: 5px !important;
     box-shadow: none !important;
-    color: #212529 !important;
+    color: #fff !important;
     display: block !important;
     font-size: .8rem !important;
     font-weight: 400 !important;
