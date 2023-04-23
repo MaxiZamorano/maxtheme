@@ -62,13 +62,13 @@ instalar(){
         curl -s -o "$dir_archivo" -k "$url"
         curl -s -o "$dir_archivo_2" -k "$url_2"
 
-        # Verifica si el archivo .copy-dark.min.css ya existe
-        if [ -f /usr/local/hestia/web/css/themes/.copy-dark.min.css ]; then
+        # Verifica si el archivo .copy-dark.min.css_dark ya existe
+        if [ -f /usr/local/hestia/web/css/themes/.copy-dark.min.css_dark ]; then
               rm -rf /usr/local/hestia/web/css/themes/dark.min.css
               cp /usr/local/hestia/web/css/themes/max-theme-dark-login.css /usr/local/hestia/web/css/themes/dark.min.css
               rm -rf /usr/local/hestia/web/css/themes/max-theme-dark-login.css
         else
-              cp /usr/local/hestia/web/css/themes/dark.min.css /usr/local/hestia/web/css/themes/.copy-dark.min.css
+              cp /usr/local/hestia/web/css/themes/dark.min.css /usr/local/hestia/web/css/themes/.copy-dark.min.css_dark
               rm -rf /usr/local/hestia/web/css/themes/dark.min.css
               cp /usr/local/hestia/web/css/themes/max-theme-dark-login.css /usr/local/hestia/web/css/themes/dark.min.css
               rm -rf /usr/local/hestia/web/css/themes/max-theme-dark-login.css
@@ -190,11 +190,11 @@ desinstalar(){
           [Ss]* )
 
           # Verifica si está instalado el tema actualmente
-          if [ -f /usr/local/hestia/web/css/themes/.copy-dark.min.css ]; then
+          if [ -f /usr/local/hestia/web/css/themes/.copy-dark.min.css_dark ]; then
             # Elimina los archivos y restaura el original
             rm -rf /usr/local/hestia/web/css/themes/dark.min.css
-            cp /usr/local/hestia/web/css/themes/.copy-dark.min.css /usr/local/hestia/web/css/themes/dark.min.css
-            rm /usr/local/hestia/web/css/themes/.copy-dark.min.css
+            cp /usr/local/hestia/web/css/themes/.copy-dark.min.css_dark /usr/local/hestia/web/css/themes/dark.min.css
+            rm /usr/local/hestia/web/css/themes/.copy-dark.min.css_dark
             rm -rf /usr/local/hestia/web/css/themes/custom/max-theme-dark.css
 
             echo  "${gris}____________________________________________________________________________________________________${reset}"
