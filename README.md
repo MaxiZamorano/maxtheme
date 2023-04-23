@@ -8,7 +8,7 @@
 </p> -->
 
 <p align="center">
-	<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme.png"/>
+	<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme2.0.png"/>
 </p>
 
 <h2 align="center">Max Theme para HestiaCP</h2>
@@ -16,7 +16,7 @@
 <p align="center"><strong>Última versión:</strong> 2.0 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Ver Cambios</a> | <a href="#capturas">Capturas de Pantalla</a></p>
 
 <p align="center">
-	<strong>Mi web:</strong> <a href="https://www.maxizamorano.com/">MaxiZamorano.Com</a> |
+	<strong>Mi web:</strong> <a target="_blank" href="https://www.maxizamorano.com/">maxizamorano.com</a> |
   <strong>Sugerencias:</strong> <a href="mailto:contacto@maxizamorano.com"> contacto@maxizamorano.com</a>
 
 </p>
@@ -59,13 +59,17 @@ A continuación, puedes ver algunas capturas de pantalla del tema que tendrás p
 
 #### - Login o Inicio de sesión con tu logo
 <img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_9.png"/>
+<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_10.png"/>
 
 #### - Login o Inicio de sesión con tu logo y tu fondo
 <img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_7.png"/>
+<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_11.png"/>
 
 #### - Dashboard con tu logo
 <img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_1.png"/>
+<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_13.png"/>
 
+#### - Capturas Max Theme Light
 <table>
   <tr>
     <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_1.png"></td>
@@ -81,6 +85,25 @@ A continuación, puedes ver algunas capturas de pantalla del tema que tendrás p
     <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_7.png"></td>
     <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_8.png"></td>
     <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_9.png"></td>
+  </tr>
+</table>
+
+#### - Capturas Max Theme Dark
+<table>
+  <tr>
+    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_13.png"></td>
+    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_14.png"></td>
+    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_15.png"></td>
+  </tr>
+   <tr>
+    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_16.png"></td>
+    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_17.png"></td>
+    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_18.png"></td>
+  </tr>
+   <tr>
+    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_11.png"></td>
+    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_12.png"></td>
+    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_10.png"></td>
   </tr>
 </table>
 
