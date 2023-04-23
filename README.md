@@ -14,17 +14,19 @@
 
 ## **¡Bienvenidos!**
 
-He creado este script de fácil instalación para que puedas tener un nuevo tema para el panel de control HestiaCP con estilo Bootstrap 5, incluye personalización de marca para que puedas incluir tu logo en la parte superior reemplazando el logo por defecto de HestiaCP.
+He creado este script de fácil instalación para que puedas tener 2 nuevos temas (Dark y Light) para el panel de control HestiaCP con estilo Bootstrap 5, incluye personalización de marca para que puedas incluir tu logo en la parte superior reemplazando el logo por defecto de HestiaCP.
 
 ## Características
 
+- Tema Dark y Light
 - Tema con Estilo Bootstrap 5
+- Instala y desinstala sin afectar los temas por defecto.
 - Añade tu logo en el Dashboard de HestiaCP (<a href="#--dashboard-con-tu-logo">Ver ejemplo</a>)
 - Añade tu logo en la pantalla de Login o Inicio de sesión (<a href="#--login-o-inicio-de-sesi%C3%B3n-con-tu-logo">Ver ejemplo</a>)
 - Añade una imagen de fondo en la pantalla de Login o Inicio de sesión (<a href="#--login-o-inicio-de-sesi%C3%B3n-con-tu-logo-y-tu-fondo">Ver ejemplo</a>)
 
 ## Instalación
-Para instalar los temas solo debes ejecutar como root los siguiente comandos en la terminal:<br>
+Para instalar los temas debes ejecutar como root los siguientes comandos en tu terminal:<br>
 #### - Instalar Tema Light/Claro
 ```bash
 curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/install-light.sh -o install.sh && sh install.sh
@@ -33,6 +35,14 @@ curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/in
 ```bash
 curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/install-dark.sh -o install.sh && sh install.sh
 ```
+## Notas importantes:
+- Si el tema no se cambia de forma automática, debes cambiarlo desde las opciones del panel de control HestiaCP.
+- Recomendamos deshabilitar las actualizaciones automáticas de HestiaCP.
+- Si luego de una actualización de HestiaCP se pierden los estilos de la pantalla de inicio de sesión, vuelve a reinstalar el tema.
+- Si quieres realizar cambios de Logo o Fondo puedes reinstalar el tema.
+- Si instalas los 2 temas, podrás cambiarlos cuando quieras desde las opciones del panel de control, pero la pantalla de login o inicio de sesión tendrá los estilos del último tema instalado, por ej: si el último tema que instalaste fue el tema Dark, la pantalla de login seguirá con el tema Dark aunque cambies al tema Light, esto es solo para la pantalla de login, no en el dashboard.
+- Para cambiar el tema de la pantalla de login o inicio de sesión (Dark o Light), debes reinstalar nuevamente dicho tema.
+- Para cambiar el tema del dashboard solo debes seleccionarlo desde las opciones de configuración de HestiaCP.
 
 ## Capturas
 
@@ -67,7 +77,7 @@ A continuación, puedes ver algunas capturas de pantalla del tema que tendrás p
 
 ## Problemas y/o Sugerencias
 
-Si tienes algún problema con el script, encuentras algun error o tienes alguna sugerencia, por favor contáctate al correo contacto@maxizamorano.com para recibir ayuda y/o establecer una conversación.
+Si tienes algún problema con el script, encuentras algún error o tienes alguna sugerencia, por favor contáctate al correo contacto@maxizamorano.com para recibir ayuda y/o establecer una conversación.
 
 ## Derechos de autor
 
