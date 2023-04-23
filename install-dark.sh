@@ -87,7 +87,7 @@ instalar(){
         linea_3="603"
         css_inicio_3='    background-image: url("'
         css_final_3='");'
-        css_color_fondo='    background: #f6f6f6;'
+        css_color_fondo='    background: #10161f;'
 
         # Pregunta la URL del logo para el dashboard
         echo  "${gris}____________________________________________________________________________________________________${reset}"
