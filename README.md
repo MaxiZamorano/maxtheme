@@ -1,3 +1,12 @@
+<!-- <p align="center">
+	<b>Selecciona tu idioma | Select your language</b>
+</p>
+<p align="center">
+  <a href="https://#"><img width="30" src="https://cdn-icons-png.flaticon.com/512/8363/8363059.png"></a>
+  <a href="https://#"><img width="30" src="https://cdn-icons-png.flaticon.com/512/197/197484.png"></a><br>
+  <a href="https://#">Español</a> | <a href="https://#">English</a>
+</p> -->
+
 <p align="center">
 	<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme.png"/>
 </p>
