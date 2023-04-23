@@ -4,7 +4,7 @@
 
 <h2 align="center">Max Theme para HestiaCP</h2>
 
-<p align="center"><strong>Última versión:</strong> 1.2 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Ver Cambios</a> | <a href="#capturas">Capturas de Pantalla</a></p>
+<p align="center"><strong>Última versión:</strong> 2.0 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Ver Cambios</a> | <a href="#capturas">Capturas de Pantalla</a></p>
 
 <p align="center">
 	<strong>Mi web:</strong> <a href="https://www.maxizamorano.com/">MaxiZamorano.Com</a> |
@@ -24,9 +24,14 @@ He creado este script de fácil instalación para que puedas tener un nuevo tema
 - Añade una imagen de fondo en la pantalla de Login o Inicio de sesión (<a href="#--login-o-inicio-de-sesi%C3%B3n-con-tu-logo-y-tu-fondo">Ver ejemplo</a>)
 
 ## Instalación
-Para instalar el tema solo debes ejecutar el siguiente comando en la terminal:
+Para instalar los temas solo debes ejecutar como root los siguiente comandos en la terminal:<br>
+#### - Instalar Tema Light/Claro
 ```bash
-curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/main/install.sh -o install.sh && chmod +x install.sh && sh install.sh
+curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/install-light.sh -o install.sh && sh install.sh
+```
+#### - Instalar Tema Dark/Oscuro
+```bash
+curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/install-dark.sh -o install.sh && sh install.sh
 ```
 
 ## Capturas
