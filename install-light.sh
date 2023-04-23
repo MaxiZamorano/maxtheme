@@ -21,11 +21,16 @@ show_menu() {
   echo '                          | .  . | __ ___  __   | | | |__   ___ _ __ ___   ___ '
   echo '                          | |\/| |/ _  \ \/ /   | | |  _ \ / _ \  _   _ \ / _ \'
   echo '                          | |  | | (_| |>  <    | | | | | |  __/ | | | | |  __/'
-  echo '                          \_|  |_/\__,_/_/\_\   \_/ |_| |_|\___|_| |_| |_|\___|'
-
+  echo '                          \_|  |_/\__,_/_/\_\   \_/ |_| |_|\___|_| |_| |_|\___|'  
+  echo "                                             _    _      _   _"   
+  echo "                                            | |  (_)__ _| |_| |_" 
+  echo "                                            | |__| / _' | ' \  _|"
+  echo "                                            |____|_\__, |_||_\__|"
+  echo "                                                   |___/"         
+  
   echo ""
-  echo "                                          Max Theme para HestiaCP"
-  echo "                                                   v1.1"
+  echo "                                       Max Theme Light para HestiaCP"
+  echo "                                                   v2.0"
   echo "                                           www.maxizamorano.com"
   echo "                                      https://github.com/MaxiZamorano"
   echo ""
@@ -43,10 +48,10 @@ show_menu() {
 #función para instalar o reinstalar el tema
 instalar(){
 
-        url="https://raw.githubusercontent.com/maxizamorano/maxtheme/main/themes/max-theme-light.css"
+        url="https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/themes/max-theme-light/max-theme-light.css"
         dir_archivo="/usr/local/hestia/web/css/themes/custom/max-theme-light.css"
 
-        url_2="https://raw.githubusercontent.com/maxizamorano/maxtheme/main/themes/max-theme-light-login.css"
+        url_2="https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/themes/max-theme-light/max-theme-light-login.css"
         dir_archivo_2="/usr/local/hestia/web/css/themes/max-theme-light-login.css"
 
         # Verifica si la carpeta "/usr/local/hestia/web/css/themes/custom" existe, si no la crea
@@ -58,15 +63,15 @@ instalar(){
         curl -s -o "$dir_archivo" -k "$url"
         curl -s -o "$dir_archivo_2" -k "$url_2"
 
-        # Verifica si el archivo .copy-dark.min.css ya existe
-        if [ -f /usr/local/hestia/web/css/themes/.copy-dark.min.css ]; then
+        # Verifica si el archivo .copy-dark.min.css_light ya existe
+        if [ -f /usr/local/hestia/web/css/themes/.copy-dark.min.css_light ]; then
               rm -rf /usr/local/hestia/web/css/themes/dark.min.css
               cp /usr/local/hestia/web/css/themes/max-theme-light-login.css /usr/local/hestia/web/css/themes/dark.min.css
               rm -rf /usr/local/hestia/web/css/themes/max-theme-light-login.css
         else
-              cp /usr/local/hestia/web/css/themes/dark.min.css /usr/local/hestia/web/css/themes/.copy-dark.min.css
+              cp /usr/local/hestia/web/css/themes/dark.min.css /usr/local/hestia/web/css/themes/.copy-dark.min.css_light
               rm -rf /usr/local/hestia/web/css/themes/dark.min.css
-              cp /usr/local/hestia/web/css/themes/max-theme-light-login.css /usr/local/hestia/web/css/themes/dark.min.css
+              cp /usr/local/hestia/web/css/themes/max-theme-light-login.css /usr/local/hestia/web/css/themes/light.min.css
               rm -rf /usr/local/hestia/web/css/themes/max-theme-light-login.css
         fi
 
@@ -179,18 +184,18 @@ desinstalar(){
         echo ""
         echo "${cyan}NOTA:${reset} Si lo desinstalas restauraremos los archivos originales y se activará el tema por defecto de HestiaCP."
         echo ""
-        echo -n "${verde}¿Quieres desinstalar el tema? [S/N]:${reset} "
+        echo -n "${verde}¿Quieres desinstalar el tema Max Theme Light? [S/N]:${reset} "
         read respuesta
 
         case "$respuesta" in
           [Ss]* )
 
           # Verifica si está instalado el tema actualmente
-          if [ -f /usr/local/hestia/web/css/themes/.copy-dark.min.css ]; then
+          if [ -f /usr/local/hestia/web/css/themes/.copy-dark.min.css_light ]; then
             # Elimina los archivos y restaura el original
             rm -rf /usr/local/hestia/web/css/themes/dark.min.css
-            cp /usr/local/hestia/web/css/themes/.copy-dark.min.css /usr/local/hestia/web/css/themes/dark.min.css
-            rm /usr/local/hestia/web/css/themes/.copy-dark.min.css
+            cp /usr/local/hestia/web/css/themes/.copy-dark.min.css_light /usr/local/hestia/web/css/themes/dark.min.css
+            rm /usr/local/hestia/web/css/themes/.copy-dark.min.css_light
             rm -rf /usr/local/hestia/web/css/themes/custom/max-theme-light.css
 
             echo  "${gris}____________________________________________________________________________________________________${reset}"
