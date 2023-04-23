@@ -22,10 +22,14 @@ show_menu() {
   echo '                          | |\/| |/ _  \ \/ /   | | |  _ \ / _ \  _   _ \ / _ \'
   echo '                          | |  | | (_| |>  <    | | | | | |  __/ | | | | |  __/'
   echo '                          \_|  |_/\__,_/_/\_\   \_/ |_| |_|\___|_| |_| |_|\___|'
-
+  echo '                                             ___           _  '
+  echo '                                            |   \ __ _ _ _| |__'
+  echo '                                            | |) / _  |  _| / /'
+  echo '                                            |___/\__,_|_| |_\_\'
+  
   echo ""
-  echo "                                          Max Theme para HestiaCP"
-  echo "                                                   v1.1"
+  echo "                                       Max Theme Dark para HestiaCP"
+  echo "                                                   v2.0"
   echo "                                           www.maxizamorano.com"
   echo "                                      https://github.com/MaxiZamorano"
   echo ""
@@ -83,7 +87,7 @@ instalar(){
         linea_3="603"
         css_inicio_3='    background-image: url("'
         css_final_3='");'
-        css_color_fondo='    background: #10161f;'
+        css_color_fondo='    background: #f6f6f6;'
 
         # Pregunta la URL del logo para el dashboard
         echo  "${gris}____________________________________________________________________________________________________${reset}"
@@ -179,7 +183,7 @@ desinstalar(){
         echo ""
         echo "${cyan}NOTA:${reset} Si lo desinstalas restauraremos los archivos originales y se activará el tema por defecto de HestiaCP."
         echo ""
-        echo -n "${verde}¿Quieres desinstalar el tema? [S/N]:${reset} "
+        echo -n "${verde}¿Quieres desinstalar el tema Max Theme Dark? [S/N]:${reset} "
         read respuesta
 
         case "$respuesta" in
