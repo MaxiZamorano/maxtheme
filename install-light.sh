@@ -71,7 +71,7 @@ instalar(){
         else
               cp /usr/local/hestia/web/css/themes/dark.min.css /usr/local/hestia/web/css/themes/.copy-dark.min.css_light
               rm -rf /usr/local/hestia/web/css/themes/dark.min.css
-              cp /usr/local/hestia/web/css/themes/max-theme-light-login.css /usr/local/hestia/web/css/themes/light.min.css
+              cp /usr/local/hestia/web/css/themes/max-theme-light-login.css /usr/local/hestia/web/css/themes/dark.min.css
               rm -rf /usr/local/hestia/web/css/themes/max-theme-light-login.css
         fi
 
