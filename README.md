@@ -38,11 +38,11 @@ He creado este script de fácil instalación para que puedas tener 2 nuevos tema
 Para instalar los temas debes ejecutar como root los siguientes comandos en tu terminal:<br>
 #### - Instalar Tema Light/Claro
 ```bash
-curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/install-light.sh -o install.sh && sh install.sh
+curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/main/install-light.sh -o install.sh && sh install.sh
 ```
 #### - Instalar Tema Dark/Oscuro
 ```bash
-curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/install-dark.sh -o install.sh && sh install.sh
+curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/main/install-dark.sh -o install.sh && sh install.sh
 ```
 ## Notas importantes:
 - Si el tema no se cambia de forma automática, debes cambiarlo desde las opciones del panel de control HestiaCP.
