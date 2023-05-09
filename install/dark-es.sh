@@ -29,7 +29,7 @@ show_menu() {
   
   echo ""
   echo "                                       Max Theme Dark para HestiaCP"
-  echo "                                                   v2.0"
+  echo "                                                   v2.1"
   echo "                                           www.maxizamorano.com"
   echo "                                      https://github.com/MaxiZamorano"
   echo ""
@@ -47,10 +47,10 @@ show_menu() {
 #función para instalar o reinstalar el tema
 instalar(){
 
-        url="https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/themes/max-theme-dark/max-theme-dark.css"
+        url="https://raw.githubusercontent.com/maxizamorano/maxtheme/main/themes/max-theme-dark/max-theme-dark.css"
         dir_archivo="/usr/local/hestia/web/css/themes/custom/max-theme-dark.css"
 
-        url_2="https://raw.githubusercontent.com/maxizamorano/maxtheme/release-dev/themes/max-theme-dark/max-theme-dark-login.css"
+        url_2="https://raw.githubusercontent.com/maxizamorano/maxtheme/main/themes/max-theme-dark/max-theme-dark-login.css"
         dir_archivo_2="/usr/local/hestia/web/css/themes/max-theme-dark-login.css"
 
         # Verifica si la carpeta "/usr/local/hestia/web/css/themes/custom" existe, si no la crea
@@ -95,7 +95,7 @@ instalar(){
         echo "${amarillo}LOGO PARA LA BARRA SUPERIOR DEL DASHBOARD ${reset}"
         echo ""
         echo "${cyan}Se recomienda que tu logo esté en formato ${amarillo}PNG, SVG o Webp${reset}"
-        echo "${cyan}Utiliza un formato de URL correcto y en https, por ejmplo: ${amarillo}https://example.com/img/tu-logo.png${reset}"
+        echo "${cyan}Utiliza un formato de URL correcto y en https, por ejemplo: ${amarillo}https://example.com/img/tu-logo.png${reset}"
         echo  "${gris}____________________________________________________________________________________________________${reset}"
         echo ""
         echo -n "${verde}Pega o escribe la URL de tu logo: ${reset}"
@@ -111,7 +111,7 @@ instalar(){
         echo "${amarillo}LOGO PARA LA PANTALLA DE LOGIN O INICIO DE SESIÓN ${reset}"
         echo ""
         echo "${cyan}Se recomienda que tu logo esté en formato ${amarillo}PNG, SVG o Webp${reset}"
-        echo "${cyan}Utiliza un formato de URL correcto y en https, por ejmplo: ${amarillo}https://example.com/img/tu-logo.png${reset}"
+        echo "${cyan}Utiliza un formato de URL correcto y en https, por ejemplo: ${amarillo}https://example.com/img/tu-logo.png${reset}"
         echo  "${gris}____________________________________________________________________________________________________${reset}"
         echo ""
         echo -n "${verde}Pega o escribe la URL de tu logo: ${reset}"
@@ -135,7 +135,7 @@ instalar(){
             echo "${amarillo}IMAGEN DE FONDO PARA LA PANTALLA DE LOGIN O INICIO DE SESIÓN ${reset}"
             echo ""
             echo "${cyan}Se recomienda que la imagen tenga una resolución de ${amarillo}1920x1080px ${cyan}y esté en formato ${amarillo}PNG, JPG o Webp${reset}"
-            echo "${cyan}Utiliza un formato de URL correcto y en https, por ejmplo: ${amarillo}https://example.com/img/tu-fondo.png${reset}"
+            echo "${cyan}Utiliza un formato de URL correcto y en https, por ejemplo: ${amarillo}https://example.com/img/tu-fondo.png${reset}"
             echo  "${gris}____________________________________________________________________________________________________${reset}"
             echo ""
             echo -n "${verde}Pega o escribe la URL de la imagen de fondo: ${reset}"
@@ -147,7 +147,7 @@ instalar(){
             echo  "${gris}____________________________________________________________________________________________________${reset}"
             echo ""
             echo "${verde}                                       ¡TEMA INSTALADO CORRECTAMENTE! ${reset}"
-            echo "${cyan}      NOTA: ${amarillo}si no se cambia el tema automaticamente, debes cambiarlo desde el panel de control. ${reset}"
+            echo "${cyan}      NOTA: ${amarillo}si no se cambia el tema automáticamente, debes cambiarlo desde el panel de control. ${reset}"
             echo  "${gris}____________________________________________________________________________________________________${reset}"
             echo ""
 
@@ -159,7 +159,7 @@ instalar(){
             echo  "${gris}____________________________________________________________________________________________________${reset}"
             echo ""
             echo "${verde}                                       ¡TEMA INSTALADO CORRECTAMENTE! ${reset}"
-            echo "${cyan}      NOTA: ${amarillo}si no se cambia el tema automaticamente, debes cambiarlo desde el panel de control. ${reset}"
+            echo "${cyan}      NOTA: ${amarillo}si no se cambia el tema automáticamente, debes cambiarlo desde el panel de control. ${reset}"
             echo  "${gris}____________________________________________________________________________________________________${reset}"
             echo ""
 
