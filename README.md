@@ -2,13 +2,13 @@
 	<b>Selecciona tu idioma | Select your language</b>
 </p>
 <p align="center">
-  <a href="#max-theme-para-hestiacp"><img width="30" src="https://cdn-icons-png.flaticon.com/512/8363/8363059.png"></a>
-  <a href="#max-theme-for-hestiacp"><img width="30" src="https://cdn-icons-png.flaticon.com/512/197/197484.png"></a><br>
+  <a href="#max-theme-para-hestiacp"><img width="30" src="https://www.maxizamorano.com/img/gh/es.png"></a>
+  <a href="#max-theme-for-hestiacp"><img width="30" src="https://www.maxizamorano.com/img/gh/en.png"></a><br>
   <a href="#max-theme-para-hestiacp">Español</a> | <a href="#max-theme-for-hestiacp">English</a>
 </p>
 
 <p align="center">
-	<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme2.0.png"/>
+	<img align="center" src="https://www.maxizamorano.com/img/gh/mt2.1.png"/>
 </p>
 
 <h2 align="center">Max Theme para HestiaCP</h2>
@@ -119,15 +119,15 @@ Tienes permitido modificar el script a tu gusto o los archivos de estilos del te
 
 Max Theme está bajo la licencia [GPL v3](https://github.com/MaxiZamorano/maxtheme/blob/main/LICENSE).
 
-========================================================================================================
+===========================================================================
 
 <p align="center">
-	<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme2.0.png"/>
+	<img align="center" src="https://www.maxizamorano.com/img/gh/mt2.1en.png"/>
 </p>
 
 <h2 align="center">Max Theme for HestiaCP</h2>
 
-<p align="center"><strong>Latest version:</strong> 2.1 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Changelog</a> | <a href="#capturas">Screenshots</a></p>
+<p align="center"><strong>Latest version:</strong> 2.1 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Changelog</a> | <a href="#screenshots">Screenshots</a></p>
 
 <p align="center">
 	<strong>My website:</strong> <a target="_blank" href="https://www.maxizamorano.com/">maxizamorano.com</a> |
@@ -144,9 +144,9 @@ I have created this easy to install script so you can have 2 new themes (Dark an
 - Dark and Light theme
 - Bootstrap 5 Style Theme
 - Install and uninstall without affecting the default themes
-- Add your logo in the HestiaCP Dashboard (<a href="#--dashboard-con-tu-logo">See example</a>)
-- Add your logo on the Login screen (<a href="#--login-o-inicio-de-sesi%C3%B3n-con-tu-logo">See example</a>)
-- Add a background image on the Login screen (<a href="#--login-o-inicio-de-sesi%C3%B3n-con-tu-logo-y-tu-fondo">See example</a>)
+- Add your logo in the HestiaCP Dashboard (<a href="#--dashboard-with-your-logo">See example</a>)
+- Add your logo on the Login screen (<a href="#--login-with-your-logo">See example</a>)
+- Add a background image on the Login screen (<a href="#--login-with-your-logo-and-your-background">See example</a>)
 
 ## Installation
 To install the themes you must run the following commands as root in your terminal:
