@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-	<img align="center" src="https://www.maxizamorano.com/img/gh/mt2.1.png"/>
+	<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme-2.1-es.png"/>
 </p>
 
 <h2 align="center">Max Theme para HestiaCP</h2>
@@ -122,7 +122,7 @@ Max Theme está bajo la licencia [GPL v3](https://github.com/MaxiZamorano/maxthe
 ===========================================================================
 
 <p align="center">
-	<img align="center" src="https://www.maxizamorano.com/img/gh/mt2.1en.png"/>
+	<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme-2.1-en.png"/>
 </p>
 
 <h2 align="center">Max Theme for HestiaCP</h2>
