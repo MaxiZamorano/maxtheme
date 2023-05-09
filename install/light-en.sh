@@ -29,7 +29,7 @@ show_menu() {
   echo "                                                   |___/"         
   
   echo ""
-  echo "                                       Max Theme Light para HestiaCP"
+  echo "                                       Max Theme Light for HestiaCP"
   echo "                                                   v2.1"
   echo "                                           www.maxizamorano.com"
   echo "                                      https://github.com/MaxiZamorano"
