@@ -30,7 +30,7 @@ show_menu() {
   
   echo ""
   echo "                                       Max Theme Light para HestiaCP"
-  echo "                                                   v2.0"
+  echo "                                                   v2.1"
   echo "                                           www.maxizamorano.com"
   echo "                                      https://github.com/MaxiZamorano"
   echo ""
