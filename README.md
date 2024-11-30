@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-light.gif"/>
+    <img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-light.gif"/>
 </p>
 
 <h2 align="center">Max Theme for HestiaCP</h2>
@@ -54,46 +54,46 @@ bash <(curl -sL https://raw.githubusercontent.com/maxizamorano/maxtheme/main/ins
 Below you can see some screenshots of the theme you will have for your HestiaCP control panel.
 
 #### - MaxTheme Light Color Palette
-<img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light.gif"/>
 
 #### - Screenshots MaxTheme Light Blue
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-1.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-2.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-3.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-1.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-2.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-3.jpg"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-4.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-5.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-6.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-4.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-5.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-6.jpg"></td>
   </tr>
    <tr>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-7.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-8.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-9.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-7.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-8.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-9.jpg"></td>
   </tr>
 </table>
 
 #### - MaxTheme Dark Color Palette
-<img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark.gif"/>
 
 #### - Screenshots MaxTheme Dark Blue
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-1.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-2.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-3.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-1.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-2.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-3.jpg"></td>
   </tr>
    <tr>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-4.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-5.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-6.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-4.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-5.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-6.jpg"></td>
   </tr>
    <tr>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-7.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-8.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-9.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-7.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-8.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-9.jpg"></td>
   </tr>
 </table>
 
@@ -112,7 +112,7 @@ Max Theme is licensed under the [GPL v3](https://github.com/MaxiZamorano/maxthem
 ===========================================================================
 
 <p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-light.gif"/>
+    <img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-light.gif"/>
 </p>
 
 <p align="center">Paleta de colores</p>
@@ -203,46 +203,46 @@ bash <(curl -sL https://raw.githubusercontent.com/maxizamorano/maxtheme/main/ins
 A continuación, puedes ver algunas capturas de pantalla del tema que tendrás para tu panel de control HestiaCP.
 
 #### - Paleta de colores MaxTheme Light
-<img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light.gif"/>
 
 #### - Capturas MaxTheme Light Blue
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-1.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-2.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-3.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-1.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-2.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-3.jpg"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-4.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-5.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-6.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-4.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-5.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-6.jpg"></td>
   </tr>
    <tr>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-7.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-8.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-light-9.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-7.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-8.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-light-9.jpg"></td>
   </tr>
 </table>
 
 #### - Paleta de colores MaxTheme Dark
-<img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark.gif"/>
 
 #### - Capturas MaxTheme Dark Blue
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-1.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-2.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-3.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-1.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-2.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-3.jpg"></td>
   </tr>
    <tr>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-4.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-5.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-6.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-4.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-5.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-6.jpg"></td>
   </tr>
    <tr>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-7.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-8.jpg"></td>
-    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshot/maxtheme-dark-9.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-7.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-8.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-9.jpg"></td>
   </tr>
 </table>
 
