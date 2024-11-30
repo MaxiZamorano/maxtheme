@@ -1,229 +1,105 @@
 <p align="center">
-	<b>Selecciona tu idioma | Select your language</b>
+    <b>Select your language | Selecciona tu idioma</b>
 </p>
 <p align="center">
-  <a href="#max-theme-para-hestiacp"><img width="30" src="https://www.maxizamorano.com/img/gh/es.png"></a>
-  <a href="#max-theme-for-hestiacp"><img width="30" src="https://www.maxizamorano.com/img/gh/en.png"></a><br>
-  <a href="#max-theme-para-hestiacp">Español</a> | <a href="#max-theme-for-hestiacp">English</a>
+  <a href="#max-theme-for-hestiacp"><img width="30" src="https://www.maxizamorano.com/img/gh/en.png"></a>
+  <a href="#max-theme-para-hestiacp"><img width="30" src="https://www.maxizamorano.com/img/gh/es.png"></a><br>
+  <a href="#max-theme-for-hestiacp">English</a> | <a href="#max-theme-para-hestiacp">Español</a>
 </p>
 
 <p align="center">
-	<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme-2.1-es.png"/>
-</p>
-
-<h2 align="center">Max Theme para HestiaCP</h2>
-
-<p align="center"><strong>Última versión:</strong> 2.1 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Ver Cambios</a> | <a href="#capturas">Capturas de Pantalla</a></p>
-
-<p align="center">
-	<strong>Mi web:</strong> <a target="_blank" href="https://www.maxizamorano.com/">maxizamorano.com</a> |
-  <strong>Sugerencias:</strong> <a href="mailto:contacto@maxizamorano.com"> contacto@maxizamorano.com</a>
-
-</p>
-
-## **¡Bienvenidos!**
-
-He creado este script de fácil instalación para que puedas tener 2 nuevos temas (Dark y Light) para el panel de control HestiaCP con estilo Bootstrap 5, incluye personalización de marca para que puedas incluir tu logo en la parte superior reemplazando el logo por defecto de HestiaCP.
-
-## Características
-
-- Tema Dark y Light
-- Tema con Estilo Bootstrap 5
-- Instala y desinstala sin afectar los temas por defecto.
-- Añade tu logo en el Dashboard de HestiaCP (<a href="#--dashboard-con-tu-logo">Ver ejemplo</a>)
-- Añade tu logo en la pantalla de Login o Inicio de sesión (<a href="#--login-o-inicio-de-sesi%C3%B3n-con-tu-logo">Ver ejemplo</a>)
-- Añade una imagen de fondo en la pantalla de Login o Inicio de sesión (<a href="#--login-o-inicio-de-sesi%C3%B3n-con-tu-logo-y-tu-fondo">Ver ejemplo</a>)
-
-## Instalación
-Para instalar los temas debes ejecutar como root los siguientes comandos en tu terminal:<br>
-#### - Instalar Tema Light/Claro
-```bash
-curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/main/install/light-es.sh -o install.sh && sh install.sh
-```
-#### - Instalar Tema Dark/Oscuro
-```bash
-curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/main/install/dark-es.sh -o install.sh && sh install.sh
-```
-## Notas importantes:
-- Si el tema no se cambia de forma automática, debes cambiarlo desde las opciones del panel de control HestiaCP.
-- Recomendamos deshabilitar las actualizaciones automáticas de HestiaCP.
-- Si luego de una actualización de HestiaCP se pierden los estilos de la pantalla de inicio de sesión, vuelve a reinstalar el tema.
-- Si quieres realizar cambios de Logo o Fondo puedes reinstalar el tema.
-- Si instalas los 2 temas, podrás cambiarlos cuando quieras desde las opciones del panel de control, pero la pantalla de login o inicio de sesión tendrá los estilos del último tema instalado, por ej: si el último tema que instalaste fue el tema Dark, la pantalla de login seguirá con el tema Dark aunque cambies al tema Light, esto es solo para la pantalla de login, no en el dashboard.
-- Para cambiar el tema de la pantalla de login o inicio de sesión (Dark o Light), debes reinstalar nuevamente dicho tema.
-- Para cambiar el tema del dashboard solo debes seleccionarlo desde las opciones de configuración de HestiaCP.
-
-## Capturas
-
-A continuación, puedes ver algunas capturas de pantalla del tema que tendrás para tu panel de control HestiaCP.
-
-#### - Login o Inicio de sesión con tu logo
-<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_9.png"/>
-<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_10.png"/>
-
-#### - Login o Inicio de sesión con tu logo y tu fondo
-<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_7.png"/>
-<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_11.png"/>
-
-#### - Dashboard con tu logo
-<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_1.png"/>
-<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_13.png"/>
-
-#### - Capturas Max Theme Light
-<table>
-  <tr>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_1.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_2.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_3.png"></td>
-  </tr>
-  <tr>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_4.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_5.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_6.png"></td>
-  </tr>
-   <tr>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_7.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_8.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_9.png"></td>
-  </tr>
-</table>
-
-#### - Capturas Max Theme Dark
-<table>
-  <tr>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_13.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_14.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_15.png"></td>
-  </tr>
-   <tr>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_16.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_17.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_18.png"></td>
-  </tr>
-   <tr>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_11.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_12.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_10.png"></td>
-  </tr>
-</table>
-
-## Problemas y/o Sugerencias
-
-Si tienes algún problema con el script, encuentras algún error o tienes alguna sugerencia, por favor contáctate al correo contacto@maxizamorano.com para recibir ayuda y/o establecer una conversación.
-
-## Derechos de autor
-
-Tienes permitido modificar el script a tu gusto o los archivos de estilos del tema, si realizas alguna mejora importante puedes compartirla y de esta forma apoyar a la comunidad que usa HestiaCP.
-
-## Licencia
-
-Max Theme está bajo la licencia [GPL v3](https://github.com/MaxiZamorano/maxtheme/blob/main/LICENSE).
-
-===========================================================================
-
-<p align="center">
-	<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme-2.1-en.png"/>
+    <img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-light.gif"/>
 </p>
 
 <h2 align="center">Max Theme for HestiaCP</h2>
 
-<p align="center"><strong>Latest version:</strong> 2.1 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Changelog</a> | <a href="#screenshots">Screenshots</a></p>
+<p align="center"><strong>Latest version:</strong> 3.0 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Changelog</a> | <a href="#screenshots">Screenshots</a></p>
 
 <p align="center">
-	<strong>My website:</strong> <a target="_blank" href="https://www.maxizamorano.com/">maxizamorano.com</a> |
-  <strong>Suggestions:</strong> <a href="mailto:contacto@maxizamorano.com"> contacto@maxizamorano.com</a>
+    <strong>My website:</strong> <a target="_blank" href="https://www.maxizamorano.com/">maxizamorano.com</a> |
+  <strong>Contact:</strong> <a href="mailto:contacto@maxizamorano.com"> contacto@maxizamorano.com</a>
 
 </p>
 
 ## **Welcome!**
 
-I have created this easy to install script so you can have 2 new themes (Dark and Light) for the HestiaCP control panel with Bootstrap 5 style, it includes branding so you can include your logo at the top replacing the default HestiaCP logo.
+New version 3.0 completely improved and built from scratch, install one or more themes for HestiaCP with the easy installation script, you can choose from a wide variety of colors for the Dark and Light version.
 
 ## Features
 
-- Dark and Light theme
-- Bootstrap 5 Style Theme
-- Install and uninstall without affecting the default themes
-- Add your logo in the HestiaCP Dashboard (<a href="#--dashboard-with-your-logo">See example</a>)
-- Add your logo on the Login screen (<a href="#--login-with-your-logo">See example</a>)
-- Add a background image on the Login screen (<a href="#--login-with-your-logo-and-your-background">See example</a>)
+- Dark and Light theme.
+- Tailwind UI style theme.
+- 14 color variations in Dark and Light.
+- "Floating Labels" effect on all forms.
+- Install and uninstall without affecting default themes.
+- Floating logo over the login box.
+- Clean code for easy customization.
+- Changed default font from "Exo" to "Ubuntu".
+- You can change to any Google Font (editing CSS).
+- No original HestiaCP file is modified.
+- Changes are maintained with HestiaCP updates.
 
 ## Installation
-To install the themes you must run the following commands as root in your terminal:
-#### - Install Light Theme
+To install one or more themes you must run as `root` the following command in your terminal:<br>
+#### - Install MaxTheme Dark/Light
 ```bash
-curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/main/install/light-en.sh -o install.sh && sh install.sh
+bash <(curl -sL https://raw.githubusercontent.com/maxizamorano/maxtheme/release-v3.0/install.sh)
 ```
-#### - Install Dark Theme
-```bash
-curl -sSL https://raw.githubusercontent.com/maxizamorano/maxtheme/main/install/dark-en.sh -o install.sh && sh install.sh
-```
-## Important Notes:
-- If the theme is not changed automatically, you must change it from the HestiaCP control panel options.
-- We recommend disabling HestiaCP automatic updates.
-- If the login screen styles are lost after a HestiaCP update, reinstall the theme.
-- If you want to make changes to the Logo or Background you can reinstall the theme.
-- If you install the 2 themes, you can change them whenever you want from the control panel options, but the login screen will have the styles of the last theme installed, for example: if the last theme you installed was the Dark theme, the login screen will continue with the Dark theme even if you switch to the Light theme, This is only for the login screen, not in the dashboard.
-- To change the theme of the login screen (Dark or Light), you must reinstall the login screen theme again.
-- To change the dashboard theme you just have to select it from the HestiaCP configuration options.
+> Compatible with the latest versions of HestiaCP `v1.8.10`, `v1.8.11`, `v1.8.12` and `v1.9.0~beta`
+
+> To reinstall or update a theme you can use the same installation command.
 
 ## Screenshots
 
-Below, you can see some screenshots of the theme you will have for your HestiaCP dashboard.
+Below you can see some screenshots of the theme you will have for your HestiaCP control panel.
 
-#### - Login with your logo
-<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_9.png"/>
-<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_10.png"/>
+#### - MaxTheme Light Color Palette
+<img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light.gif"/>
 
-#### - Login with your logo and your background
-<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_7.png"/>
-<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_11.png"/>
-
-#### - Dashboard with your logo
-<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_1.png"/>
-<img align="center" src="https://www.maxizamorano.com/img/gh/maxtheme_13.png"/>
-
-#### - Screenshots Max Theme Light
+#### - Screenshots MaxTheme Light Blue
 <table>
   <tr>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_1.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_2.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_3.png"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-1.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-2.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-3.jpg"></td>
   </tr>
   <tr>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_4.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_5.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_6.png"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-4.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-5.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-6.jpg"></td>
   </tr>
    <tr>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_7.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_8.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_9.png"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-7.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-8.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-9.jpg"></td>
   </tr>
 </table>
 
-#### - Screenshots Max Theme Dark
+#### - MaxTheme Dark Color Palette
+<img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark.gif"/>
+
+#### - Screenshots MaxTheme Dark Blue
 <table>
   <tr>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_13.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_14.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_15.png"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-1.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-2.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-3.jpg"></td>
   </tr>
    <tr>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_16.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_17.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_18.png"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-4.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-5.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-6.jpg"></td>
   </tr>
    <tr>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_11.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_12.png"></td>
-    <td><img src="https://www.maxizamorano.com/img/gh/maxtheme_10.png"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-7.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-8.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-9.jpg"></td>
   </tr>
 </table>
 
 ## Problems and/or Suggestions
 
-If you have any problems with the script, find any errors or have any suggestions, please contact contacto@maxizamorano.com to receive help and/or establish a conversation.
+If you find any bug or have any suggestion for the installation script or the themes, you can create an [issue](https://github.com/MaxiZamorano/maxtheme/issues), to contact me directly you can write to me at contacto@maxizamorano.com
 
 ## Copyright
 
@@ -232,3 +108,152 @@ You are allowed to modify the script to your liking or the theme style files, if
 ## License
 
 Max Theme is licensed under the [GPL v3](https://github.com/MaxiZamorano/maxtheme/blob/main/LICENSE).
+
+===========================================================================
+
+<p align="center">
+    <img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-light.gif"/>
+</p>
+
+<p align="center">Paleta de colores</p>
+
+<div align="center">
+
+ ![Blue](https://placehold.co/20x20/315fc5/315fc5)  ![Rose](https://placehold.co/20x20/df4e7c/df4e7c)  ![Pink](https://placehold.co/20x20/cf5894/cf5894)  ![Purple](https://placehold.co/20x20/8b4dc1/8b4dc1)  ![Indigo](https://placehold.co/20x20/564dbf/564dbf)  ![Sky](https://placehold.co/20x20/3d7c9f/3d7c9f)  ![Cyan](https://placehold.co/20x20/0e7490/0e7490)  ![Teal](https://placehold.co/20x20/16877e/16877e)  ![Green](https://placehold.co/20x20/469764/469764)  ![Orange](https://placehold.co/20x20/c17352/c17352)  ![Red](https://placehold.co/20x20/cb4f4f/cb4f4f)  ![Stone](https://placehold.co/20x20/625c56/625c56)  ![Zinc](https://placehold.co/20x20/5c5c68/5c5c68)  ![Gray](https://placehold.co/20x20/535e70/535e70) 
+
+</div>
+
+<h2 align="center">Max Theme para HestiaCP</h2>
+
+<p align="center"><strong>Última versión:</strong> 3.0 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Ver Cambios</a> | <a href="#capturas">Capturas de Pantalla</a></p>
+
+<p align="center">
+    <strong>Mi web:</strong> <a target="_blank" href="https://www.maxizamorano.com/">maxizamorano.com</a> |
+  <strong>Contacto:</strong> <a href="mailto:contacto@maxizamorano.com"> contacto@maxizamorano.com</a>
+
+</p>
+
+## **¡Bienvenidos!**
+
+Nueva versión 3.0 completamente mejorada y construida desde cero, instala uno o varios temas para HestiaCP con el script de fácil instalación, podrás elegir entre una gran variedad de colores para la versión Dark y Light.
+
+## Características
+
+- Tema Dark y Light.
+- Tema con Estilo Tailwind UI.
+- 14 variaciones de color en Dark y Light.
+- Efecto "Floting Labels" en todos los formularios.
+- Instala y desinstala sin afectar los temas por defecto.
+- Logo flotante sobre el cuadro de Inicio de sesión.
+- Codigo limpio para personalizar de forma simple.
+- Cambio de la tipografía por defecto "Exo" a "Ubuntu".
+- Puedes cambiar por cualquiera fuente de Google Font (editando el CSS).
+- No se modifica ningún archivo original de HestiaCP.
+- Se mantienen los cambios con las actualizaciones de HestiaCP.
+
+## Instalación
+Para instalar uno o más temas debes ejecutar como `root` el siguiente comando en tu terminal:<br>
+#### - Instalar MaxTheme Dark/Light
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/maxizamorano/maxtheme/release-v3.0/install.sh)
+```
+> Compatible con las últimas versiones de HestiaCP `v1.8.10`, `v1.8.11`, `v1.8.12` y `v1.9.0~beta`
+
+> Para reinstalar o actualizar un tema puedes usar el mismo comando de instalación.
+
+## Paleta de colores
+#### - Temas Dark
+|N° | Color Name | Hexadecimal | Color Preview       |
+|---|------------|-------------|---------------------|
+|1  | Blue       | `#315fc5`   | ![Blue](https://placehold.co/100x20/315fc5/315fc5) |
+|2  | Rose       | `#df4e7c`   | ![Rose](https://placehold.co/100x20/df4e7c/df4e7c) |
+|3  | Pink       | `#cf5894`   | ![Pink](https://placehold.co/100x20/cf5894/cf5894) |
+|4  | Purple     | `#8b4dc1`   | ![Purple](https://placehold.co/100x20/8b4dc1/8b4dc1) |
+|5  | Indigo     | `#564dbf`   | ![Indigo](https://placehold.co/100x20/564dbf/564dbf) |
+|6  | Sky        | `#3d7c9f`   | ![Sky](https://placehold.co/100x20/3d7c9f/3d7c9f) |
+|7  | Cyan       | `#0e7490`   | ![Cyan](https://placehold.co/100x20/0e7490/0e7490) |
+|8  | Teal       | `#16877e`   | ![Teal](https://placehold.co/100x20/16877e/16877e) |
+|9  | Green      | `#469764`   | ![Green](https://placehold.co/100x20/469764/469764) |
+|10 | Orange     | `#c17352`   | ![Orange](https://placehold.co/100x20/c17352/c17352) |
+|11 | Red        | `#cb4f4f`   | ![Red](https://placehold.co/100x20/cb4f4f/cb4f4f) |
+|12 | Stone      | `#625c56`   | ![Stone](https://placehold.co/100x20/625c56/625c56) |
+|13 | Zinc       | `#5c5c68`   | ![Zinc](https://placehold.co/100x20/5c5c68/5c5c68) |
+|14 | Gray       | `#535e70`   | ![Gray](https://placehold.co/100x20/535e70/535e70) |
+
+#### - Temas Light
+|N° | Color Name | Hexadecimal | Color Preview       |
+|---|------------|-------------|---------------------|
+|1  | Blue       | `#315fc5`   | ![Blue](https://placehold.co/100x20/315fc5/315fc5) |
+|2  | Rose       | `#df4e7c`   | ![Rose](https://placehold.co/100x20/df4e7c/df4e7c) |
+|3  | Pink       | `#e73f93`   | ![Pink](https://placehold.co/100x20/e73f93/e73f93) |
+|4  | Purple     | `#7e22ce`   | ![Purple](https://placehold.co/100x20/7e22ce/7e22ce) |
+|5  | Indigo     | `#4338ca`   | ![Indigo](https://placehold.co/100x20/4338ca/4338ca) |
+|6  | Sky        | `#0369a1`   | ![Sky](https://placehold.co/100x20/0369a1/0369a1) |
+|7  | Cyan       | `#0e7490`   | ![Cyan](https://placehold.co/100x20/0e7490/0e7490) |
+|8  | Teal       | `#0f766e`   | ![Teal](https://placehold.co/100x20/0f766e/0f766e) |
+|9  | Green      | `#15803d`   | ![Green](https://placehold.co/100x20/15803d/15803d) |
+|10 | Orange     | `#c2410c`   | ![Orange](https://placehold.co/100x20/c2410c/c2410c) |
+|11 | Red        | `#c94444`   | ![Red](https://placehold.co/100x20/c94444/c94444) |
+|12 | Stone      | `#44403c`   | ![Stone](https://placehold.co/100x20/44403c/44403c) |
+|13 | Zinc       | `#3f3f46`   | ![Zinc](https://placehold.co/100x20/3f3f46/3f3f46) |
+|14 | Gray       | `#374151`   | ![Gray](https://placehold.co/100x20/374151/374151) |
+
+## Capturas
+
+A continuación, puedes ver algunas capturas de pantalla del tema que tendrás para tu panel de control HestiaCP.
+
+#### - Paleta de colores MaxTheme Light
+<img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light.gif"/>
+
+#### - Capturas MaxTheme Light Blue
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-1.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-2.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-3.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-4.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-5.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-6.jpg"></td>
+  </tr>
+   <tr>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-7.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-8.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-light-9.jpg"></td>
+  </tr>
+</table>
+
+#### - Paleta de colores MaxTheme Dark
+<img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark.gif"/>
+
+#### - Capturas MaxTheme Dark Blue
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-1.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-2.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-3.jpg"></td>
+  </tr>
+   <tr>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-4.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-5.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-6.jpg"></td>
+  </tr>
+   <tr>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-7.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-8.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/release-v3.0/screenshot/maxtheme-dark-9.jpg"></td>
+  </tr>
+</table>
+
+## Problemas y/o Sugerencias
+
+Si encuentras algún error o tienes alguna sugerencia para el script de instalación o los temas, puedes crear un [issue](https://github.com/MaxiZamorano/maxtheme/issues), para contactarme de forma directa puedes escribirme a contacto@maxizamorano.com
+
+## Derechos de autor
+
+Tienes permitido modificar el script a tu gusto o los archivos de estilos del tema, si realizas alguna mejora importante puedes compartirla y de esta forma apoyar a la comunidad que usa HestiaCP.
+
+## Licencia
+
+Max Theme está bajo la licencia [GPL v3](https://github.com/MaxiZamorano/maxtheme/blob/main/LICENSE).
