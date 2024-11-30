@@ -11,6 +11,14 @@
     <img align="center" src="https://raw.githubusercontent.com/MaxiZamorano/maxtheme/main/screenshots/maxtheme-dark-light.gif"/>
 </p>
 
+<p align="center">Color palette</p>
+
+<div align="center">
+
+ ![Blue](https://placehold.co/20x20/315fc5/315fc5)  ![Rose](https://placehold.co/20x20/df4e7c/df4e7c)  ![Pink](https://placehold.co/20x20/cf5894/cf5894)  ![Purple](https://placehold.co/20x20/8b4dc1/8b4dc1)  ![Indigo](https://placehold.co/20x20/564dbf/564dbf)  ![Sky](https://placehold.co/20x20/3d7c9f/3d7c9f)  ![Cyan](https://placehold.co/20x20/0e7490/0e7490)  ![Teal](https://placehold.co/20x20/16877e/16877e)  ![Green](https://placehold.co/20x20/469764/469764)  ![Orange](https://placehold.co/20x20/c17352/c17352)  ![Red](https://placehold.co/20x20/cb4f4f/cb4f4f)  ![Stone](https://placehold.co/20x20/625c56/625c56)  ![Zinc](https://placehold.co/20x20/5c5c68/5c5c68)  ![Gray](https://placehold.co/20x20/535e70/535e70) 
+
+</div>
+
 <h2 align="center">Max Theme for HestiaCP</h2>
 
 <p align="center"><strong>Latest version:</strong> 3.0 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Changelog</a> | <a href="#screenshots">Screenshots</a></p>
