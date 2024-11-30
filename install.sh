@@ -298,12 +298,12 @@ install_theme() {
     # Download the corresponding CSS file
     # Descargar el archivo CSS correspondiente
     css_file="maxtheme-${style,,}-${theme_color,,}.min.css"
-    css_url="https://raw.githubusercontent.com/maxizamorano/maxtheme/release-v3.0/themes/css/${style,,}/$css_file"
+    css_url="https://raw.githubusercontent.com/maxizamorano/maxtheme/main/themes/css/${style,,}/$css_file"
     curl -s -o "$theme_dir/$css_file" "$css_url"
 
     # Download the JS file
     # Descargar el archivo JS
-    js_url="https://raw.githubusercontent.com/maxizamorano/maxtheme/release-v3.0/themes/js/maxtheme.min.js"
+    js_url="https://raw.githubusercontent.com/maxizamorano/maxtheme/main/themes/js/maxtheme.min.js"
     curl -s -o "$js_dir/maxtheme.min.js" "$js_url"
     echo ""
     echo "____________________________________________________________________________________________________"
