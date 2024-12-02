@@ -1,6 +1,6 @@
 /*
  * Theme Name: MaxTheme for HestiaCP
- * Version: 3.0
+ * Version: 3.0.1
  * License: GPLv3
  * Author: Maxi Zamorano
  * Author URL: https://www.maxizamorano.com/
@@ -92,6 +92,7 @@
     max-width: 1100px;
 }
 
+body,
 .app-content {
     background: var(--bg-secondary);
 }
@@ -728,7 +729,8 @@ button.button[type="submit"] {
     color: var(--text-primary);
 }
 
-.box-collapse-header {
+.box-collapse-header,
+.collapse-header {
     text-shadow: none;
     color: var(--text-primary);
     background: var(--bg-secondary);
@@ -738,7 +740,8 @@ button.button[type="submit"] {
     border-radius: 7px;
 }
 
-.box-collapse-header:hover {
+.box-collapse-header:hover,
+.collapse-header:hover {
     color: var(--color-primary-hover);
 }
 
@@ -1003,7 +1006,9 @@ small.hint.js-ftp-user-hint {
 
 /* --- Login Styles --- */
 .page-login,
-.page-reset {
+.page-reset,
+.body-login,
+.body-reset {
     background: var(--border-light-secondary) !important;
 }
 
@@ -1088,7 +1093,8 @@ a.login-form-link:hover {
 }
 
 /* --- Error/success Messages --- */
-.page-login .login .error {
+.page-login .login .error,
+.body-login .login .error {
     background: var(--danger-bg);
     padding: 7px 15px;
     border-radius: 7px;
@@ -1097,7 +1103,8 @@ a.login-form-link:hover {
     font-weight: 400;
 }
 
-.page-reset .login .error {
+.page-reset .login .error,
+.body-reset .login .error {
     background: var(--success-bg);
     padding: 7px 15px;
     border-radius: 7px;
@@ -1107,13 +1114,11 @@ a.login-form-link:hover {
 }
 
 /* Login Secondary Buttons */
-.page-login .login .u-side-by-side,
-.page-reset .login .u-side-by-side {
+.login .u-side-by-side {
     display: block !important;
 }
 
-.page-reset .login a.button.button-secondary,
-.page-login .login a.button.button-secondary {
+.login a.button.button-secondary {
     background: none !important;
     color: var(--text-primary);
     padding: 0 !important;
@@ -1124,8 +1129,7 @@ a.login-form-link:hover {
     font-weight: 500 !important;
 }
 
-.page-reset .login a.button.button-secondary:hover,
-.page-login .login a.button.button-secondary:hover {
+.login a.button.button-secondary:hover {
     background: none !important;
     padding: 0 !important;
     margin-top: 15px;
@@ -1136,7 +1140,6 @@ a.login-form-link:hover {
     text-decoration: underline !important;
 }
 
-.page-reset .login a.button.button-secondary:focus,
-.page-login .login a.button.button-secondary:focus {
+.login a.button.button-secondary:focus {
     outline: none !important;
 }
