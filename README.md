@@ -21,7 +21,7 @@
 
 <h2 align="center">Max Theme for HestiaCP</h2>
 
-<p align="center"><strong>Latest version:</strong> 3.0 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Changelog</a> | <a href="#screenshots">Screenshots</a></p>
+<p align="center"><strong>Latest version:</strong> 3.0.1 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Changelog</a> | <a href="#screenshots">Screenshots</a></p>
 
 <p align="center">
     <strong>My website:</strong> <a target="_blank" href="https://www.maxizamorano.com/">maxizamorano.com</a> |
@@ -133,7 +133,7 @@ Max Theme is licensed under the [GPL v3](https://github.com/MaxiZamorano/maxthem
 
 <h2 align="center">Max Theme para HestiaCP</h2>
 
-<p align="center"><strong>Última versión:</strong> 3.0 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Ver Cambios</a> | <a href="#capturas">Capturas de Pantalla</a></p>
+<p align="center"><strong>Última versión:</strong> 3.0.1 | <a href="https://github.com/MaxiZamorano/maxtheme/releases">Ver Cambios</a> | <a href="#capturas">Capturas de Pantalla</a></p>
 
 <p align="center">
     <strong>Mi web:</strong> <a target="_blank" href="https://www.maxizamorano.com/">maxizamorano.com</a> |

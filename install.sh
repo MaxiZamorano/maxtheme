@@ -106,7 +106,7 @@ show_menu_motd() {
   echo '                           |_|  |_|\__,_/_/\_\   |_| |_| |_|\___|_| |_| |_|\___|'                                             
   echo ""
   echo "                                           MaxTheme for HestiaCP"
-  echo "                                                   v3.0"
+  echo "                                                  v3.0.1"
   echo "                                           www.maxizamorano.com"
   echo "                                https://github.com/MaxiZamorano/maxtheme/"
   echo ""
